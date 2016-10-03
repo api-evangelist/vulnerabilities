@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "wFHpjtb8moh123qBgskQkCteOjhV123iC116JsdPPEbmvjk2edMTPvC1FEqtqE53J5eEhV1BZxMNtAFVQx1p8jRCKyIQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "ISC Releases Security Updates for BIND",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/09/27/ISC-Releases-Security-Updates-BIND",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "aqKoQidDneF3Qy5puIhu116ZuCE7pK116jOXVewvUmkrMyrupnhp7osPBN7Ok3hQh1MRJFQ03rLHMwvM2GSs80XrAQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Siemens SCALANCE M800S615 Web Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-271-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "CzOLF9wBgHJgwbnKwY8RK2116E71167M0BXOE2s3vim9tkLQz1230Qz3bCP1lHd8pO7eRtChNK7CZ116Ha116sDau2zgJp1g117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Cisco Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/09/28/Cisco-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "iE0eihRiSs2gk123esuQMz7lMWsMe8JILvqkSXORWSel9116eFbLg9eJvDruIjyykEIpVtTIFQlv0vaVL8S2tbhDew117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "American AutoMatrix FrontEnd Solutions Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-273-01-0",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "0GbM5oAZHsKXOBKQf4dh0qy123qvx2edp116Mb0YnGih3SDHKlTSdx116pmk116l0rdg7pF0lukd0xa9nlRL7i3123fpDWbQ117117",
 		"item_date": "2016-09-21 00:00:00",
 		"title": "Cisco Releases Security Updates",
