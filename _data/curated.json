@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "E5acwYwK116yRu09FBIWqIugAcyS59rKRfhSAtnR1230L1sNtwDr3cNPVKYGyyKfPwvXr1Dy3LY6htafjeXvHvrLhg117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Beckhoff Embedded PC Images and TwinCAT Components Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-278-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "HMJEZYUt4kgejHvc1ipX7E9VRlMxxWWLNT9BAUeN74bA6Zmtw5v579kKVo8dQAW1F0C8UqpxQB58jyFxRrIq7g117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Beckhoff Embedded PC Images and TwinCAT Components Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-278-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "As3fFZ116OHEv6PvZ123Iq7nikE6oWBhr1pXenlNQ4qZGH4rjWVXF9fupTlrGEWTKqrTuYG123ZUpgBlcIsE4HfMZapw117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Beckhoff Embedded PC Images and TwinCAT Components Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-278-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "ml5AIHj1uZJyKk0827z20nL2KHcl6bTu6lWjz0o2HNrVSshz0aBjWiNDnha6W6sbUdMAvmumSz116t6TconvFS8Q117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Homeland Security Warns Certain Huawei Devices Vulnerable To DDoS",
+		"url": "http://www.itsecurityguru.org/2016/10/04/homeland-security-warns-certain-huawei-devices-vulnerable-to-ddos/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "wFHpjtb8moh123qBgskQkCteOjhV123iC116JsdPPEbmvjk2edMTPvC1FEqtqE53J5eEhV1BZxMNtAFVQx1p8jRCKyIQ117117",
 		"item_date": "2016-09-27 00:00:00",
 		"title": "ISC Releases Security Updates for BIND",
