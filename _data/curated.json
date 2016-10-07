@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "GkufAFRLdVvZuSV2tthsTJS5UizV6wwC9PSbpAbkR5XvwVF8jQBgtqfl0ekZv6g116hBWX8RAkpDQ7s2z4Hykk9w117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "INDAS Web SCADA Path Traversal Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-278-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "E5acwYwK116yRu09FBIWqIugAcyS59rKRfhSAtnR1230L1sNtwDr3cNPVKYGyyKfPwvXr1Dy3LY6htafjeXvHvrLhg117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Beckhoff Embedded PC Images and TwinCAT Components Vulnerabilities",
