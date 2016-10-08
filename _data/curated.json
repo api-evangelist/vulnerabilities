@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "NedTDIwBHkE5HBrciQRN44APOK123sEjPZn0XWUNNEvk116Z6NBW82Kz5CCDAW58EostHDKwAb6wL116jWMNFhfajCvA117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "VMware Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/07/VMware-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "zpxUqEYtlvxnVhFHwUVsm123G2ZznhgW7tqAvAvjdVirpwFUBOyaqiZagdH1l3W8qm7zVAub5Ab123Fsy5tu55K5ag117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "GE Bently Nevada 350022M Improper Authorization Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-252-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "GkufAFRLdVvZuSV2tthsTJS5UizV6wwC9PSbpAbkR5XvwVF8jQBgtqfl0ekZv6g116hBWX8RAkpDQ7s2z4Hykk9w117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "INDAS Web SCADA Path Traversal Vulnerability",
