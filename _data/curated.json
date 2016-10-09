@@ -16,6 +16,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "pvWOWkpCpRcg54ABZTPUlYEVcqlobik123kkXooktgarFir116dT123uCY4B0za1160bJLu3abtdbK4Hhpgjev7m2c9KCw117117",
+		"item_date": "2016-10-05 00:00:00",
+		"title": "Cisco Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/05/Cisco-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "GkufAFRLdVvZuSV2tthsTJS5UizV6wwC9PSbpAbkR5XvwVF8jQBgtqfl0ekZv6g116hBWX8RAkpDQ7s2z4Hykk9w117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "INDAS Web SCADA Path Traversal Vulnerability",
