@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "9SR7IemWQWbrjv5eSPitcw1CL123xEfcakraDqv8juJ7zCu6LCdiQygu6e5K5x6HuW8666btwSBc1pAOItUynMlA117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Schneider Electric PowerLogic PM8ECC Hardcoded Password Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-292-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "yiuqXnivdxWGfbNDe2PmHuhhao116FvFbqHvPzz9wU3SvakL1123cg116efx8jnDqTluFrx6fxS5cA9HDbhI123123hNgvww117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Linux Kernel Vulnerability",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/21/Linux-Kernel-Vulnerability",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "116Zibccac8Gi2gd61237VInbyWRr46fojuNOf1230Xc332OzQnve02DxQRS2O123Cn5123CEjuSBQkiXAG7N25123p9IAQYJw117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "ISC Releases Security Advisory",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/20/ISC-Releases-Security-Advisory",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "PzWTUUo123HPkDayI8AmcnpzMJuV3bpSKWPClIFfpGe3ty8d99oVtMTd2pbCnRCOgt1164mICVFrufFYEdqM8kEhxQ117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Mozilla Releases Security Update for Firefox",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/20/Mozilla-Releases-Security-Update-Firefox",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "rRjc5YHjoLPa1NTh123ZWcWZmVtSo0o87QhbBZIK123tj7b9qMKyr8ZYttZpvSDd8O3S9erLP4olj9A116bVYXSZLa116A117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Warnings over Dirty Cow Linux bug",
+		"url": "http://www.bbc.co.uk/news/technology-37728010",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "SusLB2Y89PgSBAgISMjMEgIH30goEJ116dCrya5mXsKRtP4GeJxnUryjQXPSVJP5wMPIPT1RghI1OSDzdNUQ2SDg117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Cisco Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/19/Cisco-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "PnW0SI1H26NH2le680pIlA9K5hjBk7j67Hmp6TxN08EjnFcIoxDZInOcs0QxDymNF8nuddn1161167B0c4tJFFNTxQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Oracle fixes 100s of vulnerabilities that put enterprise data at risk",
+		"url": "http://www.pcworld.com/article/3132906/oracle-fixes-100s-of-vulnerabilities-that-put-enterprise-data-at-risk.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Abto25AIJUuLpbi5ZZei116tz7prVhIx2x780Zi4tpopk4h0O0cpMxLGwe9JEXasYGrk3KHmy1j9EngbPO6yaXuA117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Moxa EDR810 Industrial Secure Router Privilege Escalation Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-294-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "LaSYy3uB9kCkSSJO7hCkjrYCPsLzu123LDVoyedv9a116V6gg1I92N48tnQxWN8ZNd9QwmstYAjaMcqxBbOIqCVxrw117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Oracle Releases Security Bulletin",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/10/18/Oracle-Releases-Security-Bulletin",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "tBPXgIlBNCKcTTn6RX5XTEmFAVwM2TD1g1Kpvjnx23Ypagd123AQi0gVZWGPX5h6biB8J2q7D3cEAWOYiYagoieg117117",
 		"item_date": "2016-10-13 10:45:02",
 		"title": "ICSCERT issued advisory ICSA1628701 OSIsoft PI Web API 2015 R2 Service Acct Permissions Vuln to ICSCERT",
