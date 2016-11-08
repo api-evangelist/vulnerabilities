@@ -1,5 +1,93 @@
 [
 	{
+		"curated_id": "i8lMzXfkY18clyjD123w9OdaeFlL4fSlu8eAK94Av1239uvM0s63wvld4Sjnvnz0wPWa5Adt1cVA116Y5CRxYI7jZCHg117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "A look at CMSs from a Vulnerability Researchers View",
+		"url": "http://feedproxy.google.com/~r/Liquidmatrix/~3/9BMEvU3PeqM/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "S8TIHS4dWSrB2FbEidHvz116VHN8Uic2hEAZQUobMpK4vT1HS7rB92dCoukNyB13WT4bHXhV0TXoUOB1a29dLYyQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Disclosing vulnerabilities to protect users",
+		"url": "http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/zLyzZ2mE-hg/disclosing-vulnerabilities-to-protect.html",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uUzC1oLd6TcxVeaN9reUmdi1OEtwbks7j116hq9VxCYKWsDutU6DT8yN123swK3IRRiDnJ7zomOm3RUNsT8rkEfamg117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Government Hacking Vulnerabilities Equities Process",
+		"url": "http://cyberlaw.stanford.edu/events/government-hacking-vulnerabilities-equities-process",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "1qVdpFIsc123SUcMoU5qWVVXNz7srYnO0EQrWpLCoykvHbLucxwaMXORHkQBKEpRjaCX7IDs1168FZtDL6cAX9Wpzw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "ISC Releases Security Updates for BIND",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/11/01/ISC-Releases-Security-Updates-BIND",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "lSqdx8nuhM1BMliP116jOq5I6sRslDB3eues1mb0qzmZZe1gKojvEP7yf7exVNG50t8PY123RaLBxTR0UmprAA08pg117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Schneider Electric Unity PRO Control Flow Management Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-306-03",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "1KGx123APhLthlNm9tGkzGfkRnj1gCaJuZLbPOWV5FyZIgyVvY6NSk1238MGzh2EUVeD05P1Fy0x3WxfbYtWbMXPkw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "IBHsoftec S7SoftPLC CPX43 Heapbased Buffer Overflow Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-306-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "dLhiAU8Isi65svEo1dT7SYabAgjCJ2116NS8XpIhoJuPVhfwUd123NOdvR57pAUnlrZ4VMbcd30dnXydl845rHY1234g117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Schneider Electric ConneXium Buffer Overflow Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-306-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "vQE2v2mytIleZsIe2WLcHhKq3mlFFL11691168FQIqAAORTmvvyH6n7M74YovWIg6116laoPR123cKgmQ41nSHANKQ3Mxw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "NCCICICSCERT Advanced Analytical Laboratory Malware Trends White Paper",
+		"url": "https://ics-cert.us-cert.gov/NCCICICS-CERT-Advanced-Analytical-Laboratory-Malware-Trends-White-Paper",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "3havbCnMDhJfBTV6c2xahbEqwR1Rvo123Ok2grbCXQ3NyNMNIpQyzml5123hS4Fr52kW4L123lUINrq00optpjAe2116WQ117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Schneider Electric IONXXXX Series Power Meter Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-308-03",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "B5ZJhKEybkwwxWNsuv07R13z8CnAkPRrs1LSPbXe1DNS8a1Kv9d48kiiE3irchryrUiko41MLd7hMAlWCBGikw117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Schneider Electric Magelis HMI Resource Consumption Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-308-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "SlKKRBrQ5vHTZlaQ116NawEMMpQyED4xAVFRO4GPy42P2m6I5EeFyadM7p5aNDTztnlZC1161v123YQg8tD88X7OQMgg117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Moxa OnCell Security Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-308-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "9SR7IemWQWbrjv5eSPitcw1CL123xEfcakraDqv8juJ7zCu6LCdiQygu6e5K5x6HuW8666btwSBc1pAOItUynMlA117117",
 		"item_date": "2016-10-18 00:00:00",
 		"title": "Schneider Electric PowerLogic PM8ECC Hardcoded Password Vulnerability",
