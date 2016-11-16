@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "yZddvupRWBPNC5hnbSzA04tLjxmdIE116L73PgWx9osuw116k8DeU6bZSEEy0E3kFDfMMpjbH2yE67sEz59cq2MISA117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "Microsoft November Security Updates Include Fix For ZeroDay Flaw",
+		"url": "http://www.darkreading.com/endpoint/microsoft-november-security-updates-include-fix-for-zero-day-flaw/d/d-id/1327445",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eamb1HIOWqgzyhK5zpeMDU78pMJxNvLqQiYFE7yVzfYBeLIPPku30TlTN116Wf123IUr87Xg0dOaD5vawLwLEAvbKg117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "CA Unified Infrastructure Management Directory Traversal Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-315-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "9EJrF5Nq2Dl6f9O0tKHro78W123uZLyzSb8MeiMZJFKxIEwR5123yoEY116HJD8UpB116PZSHYtaRdfCbNUYnAAPTPJV0g117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "OSIsoft PI System Incomplete Model of Endpoint Features Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICS-VU-313-03",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "EOIIzMmllYS7A5oBsoiL91238qGtH3ovjJK23IHqqGmk26FJ123jEUWdMV2pD7ue7123AO1R7LVYJKzx9w9ksPN4tVQw117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "Siemens Industrial Products Local Privilege Escalation Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-313-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "k6Ffzmi6XPVFlqe8itVhKCuharUTSs9JfbAB1mEdENLNBY123Ly0abQn3FiFDyAO4ZgMBJl99C123IplKyB28TmtZQ117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "Phoenix Contact ILC PLC Authentication Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-313-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "i8lMzXfkY18clyjD123w9OdaeFlL4fSlu8eAK94Av1239uvM0s63wvld4Sjnvnz0wPWa5Adt1cVA116Y5CRxYI7jZCHg117117",
 		"item_date": "2016-10-31 00:00:00",
 		"title": "A look at CMSs from a Vulnerability Researchers View",
