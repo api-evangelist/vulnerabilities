@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "JhzlArt0f2W116Yv1SseSz116WyIYhh7XRtMwUbwfZzL8MCSiOduiAOwltRsodpepAvGvnOTft7Uod2DAwc5VdRyJQ117117",
+		"item_date": "2016-12-16 18:21:01",
+		"title": "0days hitting Fedora and Ubuntu open desktops to a world of hurt",
+		"url": "http://arstechnica.com/security/2016/12/fedora-and-ubuntu-0days-show-that-hacking-desktop-linux-is-now-a-thing/",
+		"domain": "arstechnica.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uz116qo01j0yrSrsWzS123bWjoCfbOtgiGVS795S123WUOZEkkRMbf57p123D1NOiAeWGpO7ocu677qO8V5jDfwvHTlVSw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "OmniMetrix OmniView Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-350-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "hhtO4yYD6wJE9zHlrs5VaOjsOPc5OH25wgtRfP6Ej5Icpr123KW9WPoLbu123JFu6CP7uVCVeuehnctUTV7BDO6omA117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Fatek Automation PLC WinProladder StackBased Buffer Overflow Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-350-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "WsnX1dgKIAm3Ktn7kAT2mn2Ly5116jz30Tg75Lw7YKeaEJoT1DT5Pr3yYUljpeoYByMWRTwcV1K0OPFv123EqIHo7g117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Microsoft Patches Skype for Mac Backdoor Open for Up to 10 Years",
+		"url": "http://cyberparse.co.uk/2016/12/15/microsoft-patches-skype-for-mac-backdoor-open-for-up-to-10-years/",
+		"domain": "cyberparse.co.uk",
+		"image": ""
+	},
+	{
 		"curated_id": "yZddvupRWBPNC5hnbSzA04tLjxmdIE116L73PgWx9osuw116k8DeU6bZSEEy0E3kFDfMMpjbH2yE67sEz59cq2MISA117117",
 		"item_date": "2016-11-08 00:00:00",
 		"title": "Microsoft November Security Updates Include Fix For ZeroDay Flaw",
