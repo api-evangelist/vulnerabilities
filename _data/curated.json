@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "NNKIOBXiEHPKpLVYyIwayS2FvXoBFOAFEmnxhRW116o2AlYlTod0aUAfWu21RwLozvRfHYRO50VnKBpeJu39jNIw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Vulnerability and Patch Management",
+		"url": "http://resources.infosecinstitute.com/vulnerability-and-patch-management/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
 		"curated_id": "JhzlArt0f2W116Yv1SseSz116WyIYhh7XRtMwUbwfZzL8MCSiOduiAOwltRsodpepAvGvnOTft7Uod2DAwc5VdRyJQ117117",
 		"item_date": "2016-12-16 18:21:01",
 		"title": "0days hitting Fedora and Ubuntu open desktops to a world of hurt",
@@ -29,6 +37,14 @@
 		"title": "Microsoft Patches Skype for Mac Backdoor Open for Up to 10 Years",
 		"url": "http://cyberparse.co.uk/2016/12/15/microsoft-patches-skype-for-mac-backdoor-open-for-up-to-10-years/",
 		"domain": "cyberparse.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "GZdnvWX116ST65RN123TIkx91C116ou6EvUSKA4DAtfyHjKkmbdubIwgN18v0tAmBHPyd7V4l0iS4pQ116K0QSvPWrThhA117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "5yearold Skype Backdoor Discovered  Mac OS X Users Urged to",
+		"url": "http://trueviralnews.com/5-year-old-skype-backdoor-discovered-mac-os-x-users-urged-to-update/",
+		"domain": "trueviralnews.com",
 		"image": ""
 	},
 	{
