@@ -3,8 +3,64 @@
 		"curated_id": "NNKIOBXiEHPKpLVYyIwayS2FvXoBFOAFEmnxhRW116o2AlYlTod0aUAfWu21RwLozvRfHYRO50VnKBpeJu39jNIw117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "Vulnerability and Patch Management",
-		"url": "http://resources.infosecinstitute.com/vulnerability-and-patch-management/",
+		"url": "http://resources.infosecinstitute.com/category/certifications-training/cissp/domains/security-operations/vulnerability-and-patch-management/",
 		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DsMKkEVCsRgqXGfBRfqJz4gZ2Qq2P116TgVrptAfbBEzcFhlWx5NynVrsDgsTqXWn6zHHrDNJ1238YTdNO3LoejVDA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Netgear starts patching routers left vulnerable to hacking by a critical flaw",
+		"url": "http://www.pcworld.com/article/3150025/security/netgear-starts-patching-routers-affected-by-a-critical-flaw.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IwDM25WP9zdurCGPHuyTpU12VY96slW9rhHl1IrPEZTPAozf606umCekrVLPfIkfMGYsAqhcCXlVIgK4hk9q116w117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Microsoft Patches Dangerous Backdoor In Skype For Mac OS X",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/microsoft-patches-dangerous-backdoor-in-skype-for-mac-os-x-/d/d-id/1327712",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1lptuTiKp5U123NgFsmEBdHj3AJohoN0jLhU2ta9ep0wBnBH4Y116acVvPps2LYNdmWAWK0TCip7sUpq3v53MifZPg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Siemens S7300400 PLC Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-348-05",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "RMu116bK8tI7kacNyC8VN3xoj880axg123k9vVyIfSn2VS704PxJQBH5L3Oxs9uGPesljwXqXEFwxxnjFUhXwj4Ijg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Siemens SIMATIC WinCC and SIMATIC PCS 7 ActiveX Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-348-04",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "RK783vH8bV1tc0LC8P6u0YvY116YIiI2CiCCfA08MG4W9owuqojgGz51123uZZfwON7PHCtXGamcWW8spA74WhphPA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Delta Electronics WPLSoft ISPSoft and PMSoft Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-348-03",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "0aIg123116SFV7Zqkz7P1164u0sb4THkVWnYeA4VLnRFFIsWbI1168laI1123gt3rG7NJUhYMO6pAq7ZMznWlkz10116mV9svg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Moxa DACenter Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-348-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "PPxCb8j41123p6Td4ED8RLfaV6H9QXbbsk1162k1163zRfAJ4lWjWg8Ac7UAmFUDiuQJgq3NYtFO8MuYi116iJHbrOVa6A117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Microsoft Patches Dangerous Backdoor In Skype For Mac OS X",
+		"url": "http://www.isvoc.com/201612142916.html",
+		"domain": "www.isvoc.com",
 		"image": ""
 	},
 	{
@@ -37,6 +93,14 @@
 		"title": "Microsoft Patches Skype for Mac Backdoor Open for Up to 10 Years",
 		"url": "http://cyberparse.co.uk/2016/12/15/microsoft-patches-skype-for-mac-backdoor-open-for-up-to-10-years/",
 		"domain": "cyberparse.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "ThwEnKKZxDQcFmg8BaOlDtmm60B30lDlX7oJhbaSUrhqTyYdel7ZomJn17O8sd0SH5MFKEvGPCL485A38GccaA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Microsoft Releases December 2016 Security Bulletin",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/12/13/Microsoft-Releases-December-2016-Security-Bulletin",
+		"domain": "www.us-cert.gov",
 		"image": ""
 	},
 	{
