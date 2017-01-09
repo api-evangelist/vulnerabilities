@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "BPVpHAGiSdDWCob5rES05kUyGrSRwnSVY0VGjwFf6smvmdl116JSK5dmUPUax116orGqcdBcXZ4zR97Jq1OmLu4ujw117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Rockwell Automation Logix5000 Programmable Automation Controller Buffer Overflow Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-343-05",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "lMZdCYP6tB2g56ne2tZ1237yIhxD4PLKOA2EVxOxJzC5DGTL38dTT7C7SvvBVWD9NauLO9WSrtAxcDQ123sCoCIb4A117117",
+		"item_date": "2017-01-03 12:01:31",
+		"title": "978    Kaspersky SSL interception differentiates certificates with a 32bit hash      projectzero       Monorail",
+		"url": "https://bugs.chromium.org/p/project-zero/issues/detail",
+		"domain": "bugs.chromium.org",
+		"image": ""
+	},
+	{
+		"curated_id": "oqFVUNxVDCRFQKBkq3wAFFR2Dcy7dZH8l2A1123tBkLrSD6Av6zIodnTfFXSf5fKS1r2roSePHxlH1168ya44gIA116A117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "New Android Malware Attacks Your Wireless Router Through Your Phone",
+		"url": "http://www.itsecurityguru.org/2017/01/06/new-android-malware-attacks-wireless-router-phone/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "5q5bKOWxriar4n8LelMPtzWzzYpg2ZgRaABVXtxu5yw0qAoBjPqj4cqig4lWx7bxhjJsKfCSt1S0L7jrjN9skA117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Rockwell Automation MicroLogix 1100 and 1400 Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-336-06",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "TWelSqQoYcRKyoBvMK116fErHl7VpYkE4tDUYfvIFvg8i3NvhAgidUxfUkY4123rv123gbzTYe8i9Iy6mc5BJ9erkZZQ117117",
 		"item_date": "2016-12-28 00:00:00",
 		"title": "Mozilla Releases Security Update",
