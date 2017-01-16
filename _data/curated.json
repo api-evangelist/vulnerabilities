@@ -11,8 +11,8 @@
 		"curated_id": "sdILlU9QwaF2xvrnQLe05oZSXJOzkhfkVXDwIcca123IxAfR1160ZHXGuQZwh71yf6rezdA2O5sTJ6JGIl7oM5Tzlw117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Top security expert There is no WhatsApp backdoor FB",
-		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/K1ni0FQKL38/top-security-expert-there-is-no-whatsapp-backdoor-2017-1",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.businessinsider.com/top-security-expert-there-is-no-whatsapp-backdoor-2017-1",
+		"domain": "www.businessinsider.com",
 		"image": ""
 	},
 	{
@@ -21,6 +21,54 @@
 		"title": "A critical flaw possibly a deliberate backdoor allows for decryption of Whatsapp messages",
 		"url": "http://boingboing.net/2017/01/13/a-critical-flaw-possibly-a-de.html",
 		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "APn123543LoiHQ5bY7z8DKy7P2NgU3k8q6TotTZurwNBJdOJFkE6m7h7LhPHWkV116BCfDbzDfK6ZIzks116QQmTqziA117117",
+		"item_date": "2017-01-09 00:00:00",
+		"title": "St Jude Merlinhome Transmitter Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSMA-17-009-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "CuuFBpwv31d62av0AsyHoBPDxRe5mrDA63B11637dvOMwHN6w5lb5JPy9EzrGfHqrMBeDytwy8eOPUjl7bcJfoUw117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Hack Exposes Reams of Private Jabber Chats",
+		"url": "http://motherboard.vice.com/read/hack-exposes-reams-of-private-jabber-chats",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1123FLv2GhR8mHuKj6NRkeVWU2WRet116BdcZdS7T5m5U0n2eM116QTqPDPREGmiNZScERS1z7HceCxmU0xndGB9RJqw117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "Security Bulletins posted",
+		"url": "http://blogs.adobe.com/psirt/?p=1438",
+		"domain": "blogs.adobe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "P6oyMfWswpcezveTVBSQNtQUT116l78YhUNdv9qMP9TlsfPy8Lvsa48ciM8wHdY116gUzAu1IlC123XF5eLEbg0MAJ116A117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "Adobe Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/01/10/Adobe-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "tFMbdwE8da7lIb0azEFctUX31sU2zWzfqzoEBFoWxqofePcslOkXRTjeXHt1162z123LG8V123nNOev1vJT28Um4p3BQ117117",
+		"item_date": "2017-01-09 00:00:00",
+		"title": "Vulnerability of Webbased Applications",
+		"url": "http://resources.infosecinstitute.com/vulnerability-of-web-based-applications/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6kyq6nJOqftb6RouTgBtXvhUPifj2YaEy1tBQid15tX7sCJV08vH04LeixSEZQJo76T7B1xGWHW9dK95oXxu116w117117",
+		"item_date": "2017-01-09 00:00:00",
+		"title": "Google plugs serious Nexus vulnerability in latest security update",
+		"url": "http://www.pcworld.com/article/3155715/android/google-plugs-serious-nexus-vulnerability-in-latest-security-update.html#tk.rss_all",
+		"domain": "www.pcworld.com",
 		"image": ""
 	},
 	{
