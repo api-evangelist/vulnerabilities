@@ -8,6 +8,22 @@
 		"image": ""
 	},
 	{
+		"curated_id": "0DtjLuZHPHgo4dZZSjQ1FOgHX0iAtgoH5EPeLkri123pnuvmNNL123kfxeqc57QSCDC8Iz123bBxdhrFszYd7pcBamLg117117",
+		"item_date": "2017-01-19 00:00:00",
+		"title": "Schneider Electric homeLYnk Controller",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-019-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "YxdP7Vwnp1TogInjtduMHryE8vNU8Wap5yOysuKJU8xkV123j8Uqw1161wB2GVs116aDtTErlLY116xxb1CZoUaKajNRZA117117",
+		"item_date": "2017-01-19 00:00:00",
+		"title": "OldSchool Mac OS Malware Spotted Targeting Biomedical Industry",
+		"url": "http://www.darkreading.com/endpoint/old-school-mac-os-malware-spotted-targeting-biomedical-industry/d/d-id/1327936",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "cTjVnS3NpxNoDNX1fYkqq9cdlXmLER32KUyOloU3T67MZuLUzoIDVWI123HqD2Z123U5m5RAXS2m0lcamAM7hQWx2Q117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Encrypted messaging platform WhatsApp denies backdoor claim",
