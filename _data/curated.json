@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Jtv8hCzkdMEhsFoa3thJoJ123ToL116LNOjgXMr8s0amZfUqKUXfmJPOQ1238YEEfEheS7gzjOoDSc9spHMS9eua6Qnw117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Silence speaks louder than words when finding malware",
+		"url": "https://developers.googleblog.com/2017/01/silence-speaks-louder-than-words-when.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XxXYzqz4BVfaVkofL8Z116wUeLu9FVmql9zFv8GStU8aTI3lvHaaFF0Xt9gJMf123xK9123jtecV2AgQb5wrfqBjyCRg117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Decline in two families of malware has researchers stumped",
+		"url": "http://thehill.com/policy/cybersecurity/314602-decline-in-two-families-of-malware-has-researchers-stumpedn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L123e2yUNSYGI116SPCFBugg5zPc4755SVqMNUj9MTvsOEhnaGXbmwDKw0h82VTu123h85NSknQS0sBpj2t4FbYjgrbw117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "Oracle Releases Security Bulletin",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/01/18/Oracle-Releases-Security-Bulletin",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "OqpB9t116sZetGgKhTNn4rwaWjabJ8bnAwv2rDGsJ1Fjv2whYIPyr1pUPIGQwBMETjNNzoTtoyq116qNEZijW116Nl3g117117",
 		"item_date": "2017-01-20 00:00:00",
 		"title": "Researchers ID DecadesOld Fruitfly Mac Malware",
