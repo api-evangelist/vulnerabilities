@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "MLqt0nXDcozPPz9AsmTw5PylZvZbX9ILJlKhSHtaihmW3vx1W3bi2GxMo8wwfwFAmp2g2DeG0usfxqRRPR6t116Q117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Tenable Brings Vulnerability Management Platform to the Cloud",
+		"url": "http://shopmatrix.eu/posts/2017/01/tenable-brings-vulnerability-management-platform-to-the-cloud/",
+		"domain": "shopmatrix.eu",
+		"image": ""
+	},
+	{
+		"curated_id": "tmgkuWTzFMiwCe1xRnCLD0mGEvBIq2YpJLKRYxWWsfA123U0B0D4AuXdCGWdOQkD2RflQXacRzvYG1B6nFw9Q7Wg117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "VMware Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/01/31/VMware-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "C123Ris53yLy6q2DtMEyB123ld116G4u8jpoPvATD8iXG2GxAGrKkU3Ms116Zx0KO8jf71ZZy3116QKvpGempqDFBO1jjuLw117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Tenable Unveils SaaS Platform that Redefines Vulnerability Management for Todays Elastic IT Environments",
+		"url": "http://www.itsecurityguru.org/2017/01/31/tenable-unveils-saas-platform-redefines-vulnerability-management-todays-elastic-environments/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "UkO4nxD2pp2IIi7ao9Cj9KygIiMdVDOAP123Us1OhkhufL0RrkGeie2NvMgPDUoATD9f116SBy5bnUF1fNaMpTOrOA117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Positive Technologies discovers security vulnerability in data center monitoring system that could allow remote access to unencrypted passwords",
+		"url": "http://www.itsecurityguru.org/2017/01/31/positive-technologies-discovers-security-vulnerability-data-center-monitoring-system-allow-remote-access-unencrypted-passwords/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Totxp123ndJmxpBPILYPW2afIpReERzAAT9I8whpNNZaDQOLVM6r1iTo9mIufI0GkR1232ofhhNlD8YrwktAqVNjBA117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Ecava IntegraXor",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-031-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "VfCjTOAIg116tk3cD0C123jGpFUEkP6P53LVJ8ZQ116pGIADB7u3jFvDj2w6KsMCfKjIOs5WVrYiXDNqY16fk4qFoDJw117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "BINOM3 Electric Power Quality Meter",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-031-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "Jtv8hCzkdMEhsFoa3thJoJ123ToL116LNOjgXMr8s0amZfUqKUXfmJPOQ1238YEEfEheS7gzjOoDSc9spHMS9eua6Qnw117117",
 		"item_date": "2017-01-17 00:00:00",
 		"title": "Silence speaks louder than words when finding malware",
