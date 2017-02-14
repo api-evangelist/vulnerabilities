@@ -8,6 +8,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "H0VKa5UKA7u9aFoSUX4ByemgF2kIUqKousRdOtzYHUZw9kMtS5w1E9k11d116Utexq116QZ2MJEUtoXLUYKKdX4vXA117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Report Security Flaw Lets Hackers Snoop on 76 iPhone Apps",
+		"url": "http://www.pcmag.com/news/351616/report-security-flaw-lets-hackers-snoop-on-76-iphone-apps",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Jd8vr4tW2ltIIC5CNOFDbfzmvvf116yuSFHTptU3X1ed6qd2tIj123et12342jh3FhXYt5ZjAfw123gbwpfPwvtC9iRfmw117117",
 		"item_date": "2017-02-07 00:00:00",
 		"title": "BD Alaris 8015 Insufficiently Protected Credentials Vulnerabilities",
@@ -45,6 +53,30 @@
 		"title": "ISC Releases Security Updates for BIND",
 		"url": "https://www.us-cert.gov/ncas/current-activity/2017/02/08/ISC-Releases-Security-Updates-BIND",
 		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "n2AITu3cWU1SAXB7LQy4xpOeZ116MTMo5YC4u7DipeV60zb116wdKEQo6VfDvK116naBDXHkQhv3q116UYQeF7XowA9gmQ117117",
+		"item_date": "2017-02-06 14:34:13",
+		"title": "Devilish New Ransomware is Out on the Street",
+		"url": "https://cyware.com/news/devilish-new-ransomware-is-out-on-the-street-2d7de6f6",
+		"domain": "cyware.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Fdsh70XgQULUSzWeYtplffBVMYyTOByW2jdXop04DicJJ83AKD9R1238Xl5iXdMPhqVrwzBo5GT1h7cNs0JZdAUw117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Cisco Clock Signal Component Failure Advisory",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/02/06/Cisco-Clock-Signal-Component-Failure-Advisory",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "Nwh4J5vrDVWMcafHoR6PPqnJsVfyqTTJ54116fIF8BIpqt116aSEy5KMhs6EZk3kMQpX9wkvKzqnoHVpy116Fnswdw117117",
+		"item_date": "2017-02-06 07:02:34",
+		"title": "IKITTENS IRANIAN ACTOR RESURFACES WITH MALWARE FOR MAC",
+		"url": "https://iranthreats.github.io/resources/macdownloader-macos-malware/",
+		"domain": "iranthreats.github.io",
 		"image": ""
 	},
 	{
