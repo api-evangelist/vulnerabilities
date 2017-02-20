@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "YqFbKEwvDwpmXshPmIt0116VbZRgQy7n7nb9fDgDR123AoZ116XFXllewk0kVY6AIqec0MzTHeopY3L2Wy6qI1fXYq1A117117",
+		"item_date": "2017-02-14 00:00:00",
+		"title": "Siemens SIMATIC Authentication Bypass",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-045-03",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "eRm1230vgqrMEBJCd68GRWMLwvWw7Fugal9W0nnDV8rr4123RdBXfcNg8GdTrrxMWsDWvZE2WY5tf3UxGP66hlqAHQ117117",
+		"item_date": "2017-02-14 00:00:00",
+		"title": "Geutebrck IP Cameras",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-045-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "BDgUyBqiWcX3JipeMu1sXK2l4Sxb123AfQ116zF123LrEXuk1IagUnz9HgKQkHGstNvOPUctKWT2yDdYOuSE6stIiwig117117",
 		"item_date": "2017-02-14 00:00:00",
 		"title": "Advantech WebAccess",
