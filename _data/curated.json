@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "v123nx1QfwUqjKc60DVMw26HEhl3vvLN123ORUfVJYXlVTZqxC0u1CH9ELBpoVwh8vcM9N7E1164vvZS123cs5iGFXy0RA117117",
+		"item_date": "2017-02-23 15:12:26",
+		"title": "Tweet Incident report on memory leak caused by Cloudflare parser bug  httpstcorTZ4bFw3uJ",
+		"url": "https://twitter.com/Cloudflare/statuses/834903775341121537",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6cTSvsTJmm7y1234YRJSGZyE2ZoPaGGQUvqfUIcfwUCE1165lDvTzHBzDYBq6684Vo3Pfl1cmD25WD1is123fLTF7VNA117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Operation BugDrop CyberX Discovers LargeScale CyberReconnaissance Operation Targeting Ukrainian Organizations",
+		"url": "https://ics-cert.us-cert.gov/Operation-BugDrop-CyberX-Discovers-Large-Scale-Cyber-Reconnaissance-Operation-Targeting-Ukrainian",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "iHktAHfKOajsVSl1SlJy116svHkod123HhkoWhHgJICPr123lXbkUHKVed116elkKJCKusRzXvQwJ82LM87jLeOVoQ2qzg117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "How to secure your data after the Cloudflare leak",
+		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/AP13H_f8jiI/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ixzetUR4YrB4eU5gvLVBKaPHk116GVeGtjssKMdl116hHfQ62wNhaTVBZcfSAI4iJVM123Do123rM6qa8GFaUXLuGwZWag117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "Update Regarding the CloudFlare Security Incident",
+		"url": "http://blog.stocktwits.com/update-regarding-the-cloudflare-security-incident/",
+		"domain": "blog.stocktwits.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ml3k1Ztcl123n0s7xQuq25XnEZtQ5s123nJtFu1230Jt1iwocogKe77hkbfXP7nOnCp8AaPkOuTp4Uy1232oXbaZkT9UrQ117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Cloudflare data leakage doesnt reveal 1Password secrets",
@@ -19,7 +51,7 @@
 		"curated_id": "HU5T23Ee8FKO7VOEsjk9KWy0JDARfQxa123JkTrJziQ9bJ8bQW66N9zodVVMX34Wj5SvKVdMWPr2uTXd1fTtyEsA117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Cloudflare Leaked Web Customer Data For Months",
-		"url": "http://www.darkreading.com/attacks-breaches/cloudflare-leaked-web-customer-data-for-months/d/d-id/1328266?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/attacks-breaches/cloudflare-leaked-web-customer-data-for-months/d/d-id/1328266",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
@@ -35,7 +67,7 @@
 		"curated_id": "ljautvvCOaCTzhYSeMc21123N6expgyxPZ3KYmWLHxpWVgmF1YQB1231eZylm123DjHsBTa5ToVxt4CCqqwZyCbX1khQ117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Partners Cloudflare Software Bug Shows Need For Better Business Data Security Measures",
-		"url": "http://www.crn.com/news/security/300083920/partners-cloudflare-software-bug-shows-need-for-better-business-data-security-measures.htm",
+		"url": "http://www.crn.com/news/security/300083920/solution-providers-cloudflare-software-bug-shows-need-for-better-business-data-security-measures.htm",
 		"domain": "www.crn.com",
 		"image": ""
 	},
@@ -45,6 +77,14 @@
 		"title": "Popular website service Cloudflare leaked private data",
 		"url": "http://thehill.com/policy/cybersecurity/320956-popular-ebsite-service-cloudflare-leaked-private-datan",
 		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yI62PJVSCRE1DWrjQq0NtJ116ryF116yXOVEkQbNpLgEmeE64XGAGVpK4TSsf8FGtyj116AktTFzbiLEizwyCzKkgoNQ117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "Apple Releases Security Update",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/02/21/Apple-Releases-Security-Update",
+		"domain": "www.us-cert.gov",
 		"image": ""
 	},
 	{
@@ -91,8 +131,8 @@
 		"curated_id": "ZPCK1psdrQOLSSfW05w1d6x116GEl8JF123I2ME7p6cRqeaj3Mubrdz6JlXV116l8gihc2nisfLnxmjGoQqWhYC116TVhA117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Announcing the first SHA1 collision",
-		"url": "http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/x34uNz0bnPc/announcing-first-sha1-collision.html",
-		"domain": "feedproxy.google.com",
+		"url": "https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html",
+		"domain": "security.googleblog.com",
 		"image": ""
 	},
 	{
