@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Gw5F2Oa4ZziGKks4RiPwBAilJy96S2bfdfqdG0BcYMOxYq123lwFOsBXYsnHObwKq2UX9mCYuxdT3VmBjh3NVPGg117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "Google Discloses Details of an Unpatched Microsoft Vulnerability",
+		"url": "https://www.schneier.com/blog/archives/2017/03/google_disclose.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j123WpDY7X1P0dt2sp2bHNd3UXgbynXAgqYLIaEc8HVHtLaV3FL34g3lGv591njImRov116WHZfFgtjMDotAz1TdIQ117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "Google says its already fixed many exploits from WikiLeaks CIA document dump",
+		"url": "http://www.theverge.com/2017/3/9/14866110/google-wikileaks-cia-documents-fixed-exploits",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GqYrHICUeTal116123rroUnsqoF4l7Mx9iZhRKCSCY5GOzvyFX5FEHe116b3JBPXfUAtJjD0uQLsfoGoh3qcw123fpE1Pg117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "Some notes on the RAND 0day report",
+		"url": "http://blog.erratasec.com/2017/03/some-notes-on-rand-0day-report.html",
+		"domain": "blog.erratasec.com",
+		"image": ""
+	},
+	{
 		"curated_id": "PJyHLI4mxhwtHhIDFTZoOZvVa4g8uWFjfNRmcbiofeD8lRfWGTDk9tLJpL3d3ep1u8l90HW233Dtrsvhir1Ztw117117",
 		"item_date": "2017-03-01 00:00:00",
 		"title": "Cisco Releases Security Update",
