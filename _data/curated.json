@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "D8R4O01MKx1sNLRqp42mLqQ2rOhYy9G3LC116NpN5q123qPRiHKdxVQnH7RIQhRq0grm359RHCh5wCx1e618aZcreQ117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Critical Vulnerability Uncovered in JSON Encryption",
+		"url": "http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html",
+		"domain": "blogs.adobe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MPDgJrRF6zXekzB02tGzUCIYy116fi7Oz5oFUiHwFUii8B116tpcbVlP3yklOhGtExrBXvM9w8Esf9E1zKjjpbV1uQ117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Vulnerabilities in WiFi Cameras",
+		"url": "https://www.eagleeyenetworks.com/vulnerabilities-wifi-camera-models/",
+		"domain": "www.eagleeyenetworks.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pLTHX31RYRPdXLTBUQVmaH1dpRf9cRUGJY3mvJnhPLEJIFObB3IYwKkowfPnaGdjtCezCxjJ0BOSKE6Eh3X1238w117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Fatek Automation PLC Ethernet Module",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-073-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "LkWTObPVgWypSo6w6Hm8zMuqHLtQjW6wM116Uyf123sRjRtt0z71Kc3uJCxdiJ1232cT9UimhvT2DTFIAtYfsdxW17aw117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Adobe Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/03/14/Adobe-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "vXWqt2oAhQrJPYl2yaGJxdy7B1168uMW2AxC7gAPju1eN3XC0wlOfet04gkklC3stLKEUPi0IDGwJo5SJzNNqilg117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Ursnif Malware",
+		"url": "http://resources.infosecinstitute.com/ursnif-malware/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MSuFlAgtOUFxaAVAiQ1R2x8VF1Wd116VEHFCRJNWpmpNqBgfmt3HAHJOt116S2PBIrQrl8E5hAU1UA4QmNnYMA4Dpw117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "WhatsApp Hack Shows That Even Encryption Apps Are Vulnerable in a Browser",
+		"url": "https://www.wired.com/2017/03/whatsapp-hack-shows-even-encryption-apps-vulnerable-browser/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QFDk0zb8a0dAd7zwTzkCuM1167vfXeNgVQkZhw0bKG9f1dZOyQKjuLUOt7Wgei123GDkByGSO4SSvZVMo1165oaixfmg117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Drupal Releases Security Update",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/03/15/Drupal-Releases-Security-Update",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "tTHHYZpsHyXNLhrAl7kufUAIUAG116J4PwKBjB75CnGGcT1CGHenU8ghABziAT6cDvvl4hPiDOz6123v5H0qj6To9A117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Vulnerability Management in 2017 Context is King",
+		"url": "http://www.bmc.com/blogs/vulnerability-management-2017-context-king/",
+		"domain": "www.bmc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NaLCqSAKBCnj6sqxhDo3116aRB0dWjVebwxo09kLdpKgLrzVgcIM2116P1123JYW6RpYLDaIfMrHnCQNqakqe0v3FrZg117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Microsoft fixes record number of flaws some publicly known",
+		"url": "http://www.pcworld.com/article/3181406/security/microsoft-fixes-record-number-of-flaws-some-publicly-known.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
 		"curated_id": "B9nKw4BSZg9IcNCO0116CMriN6qCQr269CDVJp60qXInGueXVlUvXKlakzI3bR3yTRdCE8DShg44u7U9h0S8123OPQ117117",
 		"item_date": "2017-03-07 00:00:00",
 		"title": "Mozilla Releases Security Update",
