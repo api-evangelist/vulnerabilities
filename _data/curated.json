@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "0CXQF7262116umYLhd8ZCnxH18q3123f7ceJNhe49WaIBd123JIBWLKHqr06G1gCgK1FSkFZZ116gAhra71lY14Sb116CKdw117117",
+		"item_date": "2017-03-24 00:00:00",
+		"title": "Apple Releases Security Update for iTunes",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/03/24/Apple-Releases-Security-Update-iTunes",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "vx1QgyQSlR2nAtU2EUMK4bo1ms4YjPIBCXXzVMzZiDdNHe1JuXSAivrLbcrlRR29nRa1167kwdWl0ZzvDf8N1pxg117117",
+		"item_date": "2017-03-24 00:00:00",
+		"title": "Cisco Patches Critical IOX Vulnerability",
+		"url": "http://www.itsecurityguru.org/2017/03/24/cisco-patches-critical-iox-vulnerability/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "D8R4O01MKx1sNLRqp42mLqQ2rOhYy9G3LC116NpN5q123qPRiHKdxVQnH7RIQhRq0grm359RHCh5wCx1e618aZcreQ117117",
 		"item_date": "2017-03-13 00:00:00",
 		"title": "Critical Vulnerability Uncovered in JSON Encryption",
