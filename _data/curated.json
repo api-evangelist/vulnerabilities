@@ -16,6 +16,46 @@
 		"image": ""
 	},
 	{
+		"curated_id": "vQWprUMIkgmgzloI116GQdVSUKgRXErliIqY123flTa6AAYTGkzMSRCc0Pf2r3zv4D2VUE1FqgQ7123gAgGV81ommyDg117117",
+		"item_date": "2017-03-22 00:00:00",
+		"title": "Vulnerabilities Identified in Network Time Protocol Daemon ntpd",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/03/22/Vulnerabilities-Identified-Network-Time-Protocol-Daemon-ntpd",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "cLlz78XKZ1123XITh85RGg1LoqAjSAey1166j5SztxLh6lbS42N5ceqh0D12g85p88R6AVtFIDJpIj3VNtRFm116ioIg117117",
+		"item_date": "2017-03-22 00:00:00",
+		"title": "Cisco Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/03/22/Cisco-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "NqLWbmOuJ0JjXFNgJaJclwkCMP5TZ7jwprTdu9KxQy5vSOiitbQ4D4ytBH3nryxm1KQtmrNfZoX0dqg6vPGaiA117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "Cisco Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/03/21/Title-Cisco-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "cQ1KH85SJaWqfuCBdNUX5TQ2123pIy116WD1230bz6djsa4rwcVKy6IUzDT538t1160P0HjylLaSuLsmc123iLI4XV0OSQgQ117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "New Vulnerability Revealed in WhatsApp and Telegram Allowed Hackers to Gain Complete Control Over User Accounts",
+		"url": "http://www.itsecurityguru.org/2017/03/21/new-vulnerability-revealed-whatsapp-telegram-allowed-hackers-gain-complete-control-user-accounts/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "nAmLUcGkGS3SBjczt5LUNFe367Hf1pS6gQUJL116fHQXo4VJzM4u0husPaGa2OyA116tWNYjYToWNBSS116UGdY1Ln5A117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "Cisco Issues Advisory on Flaw in Hundreds of Switches",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/cisco-issues-advisory-on-flaw-in-hundreds-of-switches/d/d-id/1328446",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "D8R4O01MKx1sNLRqp42mLqQ2rOhYy9G3LC116NpN5q123qPRiHKdxVQnH7RIQhRq0grm359RHCh5wCx1e618aZcreQ117117",
 		"item_date": "2017-03-13 00:00:00",
 		"title": "Critical Vulnerability Uncovered in JSON Encryption",
