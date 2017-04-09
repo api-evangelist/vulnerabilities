@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "123UGLC92TjwJFgumn0tr116yk2HHjda0o1qa0SyxK1agUZiWDuHGD1162ShAwUWMsWScONiqxW123Jvn0umJr4DeqXUlQ117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Cisco Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/06/Cisco-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "hJJ9ADr2fL4hkkbPgjTcmJKfjsmfM9W1232pcHO7TMmVjEIEbhr5rxpzBM0h1j5dfsZhcqXf2Ihh123Byfc7FqIh1Q117117",
+		"item_date": "2017-04-07 04:34:01",
+		"title": "Android devices can be fatally hacked by malicious WiFi networks",
+		"url": "https://arstechnica.com/security/2017/04/wide-range-of-android-phones-vulnerable-to-device-hijacks-over-wi-fi/",
+		"domain": "arstechnica.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZoPLPdy12365G4SDeAxyhbNvnI2FTVET2CzW6mRU3w1LGzGjEmqw116yLBmdGj9E1fxuwRRmDtdg4xFZaG1Waa9116Qg117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Brute Forcing HS256 Is Possible The Importance of Using Strong Keys in Signing JWTs",
+		"url": "https://dzone.com/articles/brute-forcing-hs256-is-possible-the-importance-of",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "b123mFJ4jDDLgluBxjRDBSF7d75LHLgHQ0YC8G123Q0r5GKKTR8vA8jehCyUePejJbi4hLkETN8XTaNQ9Im116Q8nqEQ117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Marel Food Processing Systems",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-094-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "gb9vrlz3XsCx123QoRC116Lv4JpE123H7Vf47JPjPOwuqcTHxoj9t2Fdm116bkPzVAXYah8dqZAjy8RnG2au140I4SbPzg117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Schneider Electric Interactive Graphical SCADA System Software",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-094-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "0CXQF7262116umYLhd8ZCnxH18q3123f7ceJNhe49WaIBd123JIBWLKHqr06G1gCgK1FSkFZZ116gAhra71lY14Sb116CKdw117117",
 		"item_date": "2017-03-24 00:00:00",
 		"title": "Apple Releases Security Update for iTunes",
