@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "xdpfnyWIVXsuoOBKh116wlKTtSsd9zK6EPA123Q9WFcjdJVCIaI116bdbEbViYp0nO116P116L8wrQSLH8SAu7sR4R6iYhwA117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "Unpatched PHP Flaw in ECommerce Platform Leaves 200000 Sites Vunerable",
+		"url": "https://continuum.cisco.com/2017/04/14/unpatched-php-flaw-in-e-commerce-platform-leaves-200000-vunerable/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yFPbeQTxBqRP5AAV1ybMXJP7KBxrL12zy7sPKomwA4yzvoTrEEH93tS2MyU9RJ9UMAqgx7BViMNIPEhfz0SRSg117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "VMware Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/14/VMware-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "123UGLC92TjwJFgumn0tr116yk2HHjda0o1qa0SyxK1agUZiWDuHGD1162ShAwUWMsWScONiqxW123Jvn0umJr4DeqXUlQ117117",
 		"item_date": "2017-04-05 00:00:00",
 		"title": "Cisco Releases Security Updates",
