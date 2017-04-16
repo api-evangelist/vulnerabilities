@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Di6Ty3QO60XXc7EgNElHJ8mVXHJ8Eaqoe58pMZxR0j0W66ZOMo9TSdnoBfYM9EGXJGmlba61wys9PozHzLpzgQ117117",
+		"item_date": "2017-04-15 00:00:00",
+		"title": "Microsoft says exploits leaked by Shadow Brokers were addressed by prior patches",
+		"url": "https://techcrunch.com/2017/04/15/microsoft-says-exploits-leaked-by-shadow-brokers-were-addressed-by-prior-patches/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WXTY116k0MZAsYkeeno8w5Ofn1123QbbVfsyjYZSOg60c7LXwPrAmJGi7hq9gewpLCfqC7Vc123qm32p3WUHHMNXk9qQ117117",
+		"item_date": "2017-04-15 00:00:00",
+		"title": "Microsoft has already patched the NSAs leaked Windows hacks",
+		"url": "http://www.theverge.com/2017/4/15/15311846/microsoft-windows-shadow-brokers-nsa-hacks-patched",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kQaLZvjPUZp6QoCFx116G5PeN1wy2LFzCBbEJytvWyFb19RziPcijiab4eWkJ9zM6s1MMZCuiiW0Vi31167in2XavQ117117",
+		"item_date": "2017-04-15 00:00:00",
+		"title": "We Can Calm Down Microsoft Already Patched Most of the Shadow Brokers Exploits",
+		"url": "https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
 		"curated_id": "xdpfnyWIVXsuoOBKh116wlKTtSsd9zK6EPA123Q9WFcjdJVCIaI116bdbEbViYp0nO116P116L8wrQSLH8SAu7sR4R6iYhwA117117",
 		"item_date": "2017-04-14 00:00:00",
 		"title": "Unpatched PHP Flaw in ECommerce Platform Leaves 200000 Sites Vunerable",
@@ -13,6 +37,78 @@
 		"title": "VMware Releases Security Updates",
 		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/14/VMware-Releases-Security-Updates",
 		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "ayi3sigQ3g123CiXy1116aPcmfysa5emoEjdboFtGmCBcfBiIWpZIrkgVjXnei4SvjY3p1paO5123UtrV0swrOx3c3ZA117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Schneider Electric Modicon M221 PLCs and SoMachine Basic",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-103-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "HvdA6KlH3iZZfhAPzMfLqWvKTkEwQ2bpX123ixFgnCxmww5S7K893M389MXngwHLWv0ivQkbJ6Y3jtm2ghZqS1PA117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Wecon Technologies LEVI Studio HMI Editor",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-103-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "TyY6NMbEN0lAs0nkAuOMLkKUWsrFxxB2PGzbrXJv8n2gk116AYLRr1AAfzw6TB2ymSPgQTPPNZTjTwsrVJ1hz57A117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "That Fingerprint Sensor on Your Phone Is Not as Safe as You Think",
+		"url": "https://www.nytimes.com/2017/04/10/technology/fingerprint-security-smartphones-apple-google-samsung.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vKP116rrfBODk5k8WP123hRkkq3EGhqfdbz2t5IkvhLpWnDm1GDLeuj7szj010LhpbqQTTF0jQXAjnYDmusWTFHEwA117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Schneider Electric Modicon Modbus Protocol",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-101-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "hebLm28Ef1O352123E123GxA1231s9cB3yxqh116XzNdywEqsXPjw24zQIeL0AI123Mr5116NQfc9kH36cJHhI6lYpE9tZllXA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Apache Software Foundation Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/12/Apache-Software-Foundation-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "cvjEVsod0zhI0GPw3nQKfvHVAYzBUT270CVLSQCWbgCRRwqx5kgo4Jjune123Sq3NXv19DIg9U9TMD2GzxQrCmPg117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Your phones fingerprint lock has a weakness",
+		"url": "http://www.futurity.org/fingerprint-phone-security-1398662/",
+		"domain": "www.futurity.org",
+		"image": ""
+	},
+	{
+		"curated_id": "t9M116bfoHNqGw7wwDPv8BQBdrwWYseEboEVxCruTr4nXdqLQgWgLRaxebAx1KkDcKw3tjvzg123YEt4MRr64n12302A117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Microsoft Releases April 2017 Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/12/Microsoft-Releases-April-2017-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "UKbS116jlcwmzxVtX116VWQv2QByUBRRDRkku8HXCG9z42vg116iUiMDS7KwzUjH123JCXaZ40qhtIi1165116QcJpyJEBmaxA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "BrickerBot Permanent DenialofService Attack",
+		"url": "https://ics-cert.us-cert.gov/alerts/ICS-ALERT-17-102-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "df0wmCUWpmpId4Dbe9aUap203d6Icl1vGcG60XJdKVUXtWGLOCCy123gVWgc8LuyF0Rnqx1XKpkVPjgwlYJHy1RQ117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "MS Office Zeroday Exploited in Attacks  No Enabling of Macros Required",
+		"url": "http://www.itsecurityguru.org/2017/04/10/ms-office-zero-day-exploited-attacks-no-enabling-macros-required/",
+		"domain": "www.itsecurityguru.org",
 		"image": ""
 	},
 	{
