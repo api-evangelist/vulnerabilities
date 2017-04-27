@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "cnsGMB1slR123Qxoaat0DE123XorYwSb123vJvxGyqlBSzZmQSAtNHK4qNEewR0DUilEeJ116a3o4L0Nodwmb5jvv8Hd3g117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Google Releases Security Updates for Chrome",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/19/Google-Releases-Security-Updates-Chrome",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "6ZODbj8AGBd6opW0X5bdwg9zkWtrnZx3rsGSC8XPONvDncHSvIyKsMneLryiEzmHuroiqUJ123sPb6eueoZxfohg117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Mozilla Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/19/Mozilla-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "wl1Zvidi116XDfyEkHtDx1116tUC1kPl7FsdgatXmeoJUpO0nKIEQMMX1wod8VPDmwncSyYKIKTid3yJXn5NnanmXw117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Drupal Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/19/Drupal-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "THV2O4S123Md8KEoCQBvmBRTaaNBoDKMVfvUAfP2cnavUy0Yp116RI95kqRBwGk59qrwuHyQ1G2DdU6qhVCy7j7I116A117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Fake Delta Airlines Receipt Packs Malware",
+		"url": "http://www.darkreading.com/attacks-breaches/fake-delta-airlines-receipt-packs-malware-/d/d-id/1328692",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gA0bZiBmZDdKPQ7KrB8sfuQaZseZyqPzr5D5AAWi31VksaaakcbmMS123U7b3omdiws8Kd74N1zU07AOrG7JPUtA117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Drupal fixes critical access bypass vulnerability",
+		"url": "http://www.pcworld.com/article/3191451/security/drupal-fixes-critical-access-bypass-vulnerability.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Di6Ty3QO60XXc7EgNElHJ8mVXHJ8Eaqoe58pMZxR0j0W66ZOMo9TSdnoBfYM9EGXJGmlba61wys9PozHzLpzgQ117117",
 		"item_date": "2017-04-15 00:00:00",
 		"title": "Microsoft says exploits leaked by Shadow Brokers were addressed by prior patches",
