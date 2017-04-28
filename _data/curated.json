@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "vM5jGpj116vp9XOwV5R1OziMLYIKyuvLARf2v6F529z86116HTta5xian123fWKGMh0B98lR5aUT45EXEDUoeSq1234tkA117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Oracle Releases Security Bulletin",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/18/Oracle-Releases-Security-Bulletin",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "x0HH1XE8Brvux3pydI116116BBS1yp4bYreMR3T8ia52DDucxHhSWx1yEQgKk3Yj0zcmDeUrSWGPfSvxvNOf123o0Idw117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "VMware Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/04/18/VMware-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "cnsGMB1slR123Qxoaat0DE123XorYwSb123vJvxGyqlBSzZmQSAtNHK4qNEewR0DUilEeJ116a3o4L0Nodwmb5jvv8Hd3g117117",
 		"item_date": "2017-04-19 00:00:00",
 		"title": "Google Releases Security Updates for Chrome",
