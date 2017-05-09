@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "xVN5k7SDWd123ucPG7XI123YDSGP5hyemuWIpR6fASa0j0uJEe3BVQdSlb4LIS907bg0ETYRmIYQKRJXHFsjeBl29w117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Mozilla Releases Security Updates",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/05/05/Mozilla-Releases-Security-Updates",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "123ZK1237bwPoOV56Bh2rbdf0v5MxNTkQ4pvxH2mDkqdo87Iq61BWjDXJvVRexFWHsXWfyhtAZ1iGF2skwREZ1dsXA117117",
 		"item_date": "2017-04-26 00:00:00",
 		"title": "Adobe Releases Security Updates for ColdFusion",
