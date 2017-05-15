@@ -1,5 +1,93 @@
 [
 	{
+		"curated_id": "fnAG6Z6ftNhFPnUVuEWp6PlOJ5uyeINq8aB0FEW0siqdU92FjtuFlpfTNXMNCQ7bEaEd0PcUuSBQ4635PcfMuA117117",
+		"item_date": "2017-05-12 00:00:00",
+		"title": "Multiple Ransomware Infections Reported",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/05/12/Multiple-Ransomware-Infections-Reported",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "ecQG3LaVq11eHgHk116yBk123St0EELuSuy9iC2aZdqlMm5o8AngXzfCI60F1237iakjWC116lu0g0ZdD3vqueFZlVOtVA117117",
+		"item_date": "2017-05-08 00:00:00",
+		"title": "Microsoft Releases Critical Security Update",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/05/08/Microsoft-Releases-Critical-Security-Update",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "lO8p057XjUSkdB123LEshG6pIrZCulxs6F1OG94j8OM8tFLlYh116erBbollntFEIR60nbTiaMeQjravYfAFKx1160cg117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "Microsoft fixes 55 vulnerabilities 3 exploited by Russian cyberspies",
+		"url": "http://www.pcworld.com/article/3195809/security/microsoft-fixes-55-vulnerabilities-3-exploited-by-russian-cyberspies.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wOOq848IQ1k116RUqxFavOU123Gi0w116dc3z116HXyCL8PmCfSt123PhKUXtW123fvtsE1nrlgrbWk4Fm2j0QXzOxAG4mT5og117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "Rockwell Automation Stratix 5900",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-094-04",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "sGPtYokQPC1ThveCvqcXzIU116nCj116Ik0116UXN56usjsdnl6HLj2UzKfq96ZpI6eJfm4EOYf9E8PlLcUMi60IZEpw117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "Siemens devices using the PROFINET Discovery and Configuration Protocol",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-129-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "2E7hJgXEcJBD3KKNh5tqFHUm123eiQTtHpCfd3vQS17HSP9zVe5123bby8XefCUIpuObKss123PD9u9MOC3BUUONB81g117117",
+		"item_date": "2017-05-09 00:00:00",
+		"title": "Siemens devices using the PROFINET Discovery and Configuration Protocol",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-129-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "8ixl6tPQKb1JNYD243Q7Wn8uwPDOQnw6CxJq1tW6jyMAxJw68SvE1164WSJrMPnV40d4lMpDws9yoZsQejtpmAxQ117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Cisco Releases Security Update",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2017/05/10/Cisco-Releases-Security-Update",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "Nhxupd9ObAbPF116uVN116JfGGie6Pj15uyIzI1169rWAG927tj1NjFeLTI4UolZZQ2XB4U4FLBwRsoIoqXjYzLZmpvQ117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Satel Iberia SenNet Data Logger and Electricity Meters",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-17-131-02",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "ppwMb8aZhqe6GV2uNUq0wZYiiOAs3vdFPk12370qvW4mcqluUbYS123uY1DTr8nC5tO1TPcPuq123nzwi81231nOEjB2Mw117117",
+		"item_date": "2017-05-12 00:00:00",
+		"title": "Unpatched 0days in Vanilla Forums let Remote Attackers Hack Websites",
+		"url": "http://www.itsecurityguru.org/2017/05/12/unpatched-0-days-vanilla-forums-let-remote-attackers-hack-websites/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "5lUPrsH1RJ1m123mJIAMWegARGbATpNwox50kegYvwM2kngSXGn2nreKzwCc2ob0dro4kQPrOgH8FsIzUXSKKo6A117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Google Researchers Discover Worst Windows Bug",
+		"url": "http://www.pcmag.com/news/353560/google-researchers-discover-worst-windows-bug",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uQelWPUIwWCkezdqnBFMa3QLr2eaihVUM2RRRqCk3BoLiptq1123WYZDfK95Os6xP5L9ZmYfPPaY2jDPlaObL2qQ117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Cisco Patches Leaked 0day in 300 Of Its Switches",
+		"url": "http://www.itsecurityguru.org/2017/05/10/cisco-patches-leaked-0-day-300-switches/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "lkbdIkEODIAkeWlC116wvS89nEbdeSXDbEhj123AzhmIaRsItMVrUIVxQwWjV3MGvjxc116MwkyqnQT9viybUj2lNZNA117117",
 		"item_date": "2017-05-01 00:00:00",
 		"title": "Intel Firmware Vulnerability",
