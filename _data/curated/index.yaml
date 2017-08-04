@@ -11,16 +11,28 @@
   url: http://krebsonsecurity.com/2015/05/st-louis-federal-reserve-suffers-dns-breach/
   domain: krebsonsecurity.com
   image: ""
+- curated_id: 28fe7eac94e553e447a9c2adc102739f
+  item_date: "2016-07-12 00:00:00"
+  title: Tollgrade Smart Grid EMS LightHouse Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-194-01
+  domain: ics-cert.us-cert.gov
+  image: ""
 - curated_id: b41340ffde9df9bad8b6cc5f0b2410f7
   item_date: "2016-07-12 00:00:00"
   title: ' GE Proficy HMI SCADA CIMPLICITY Privilege Management Vulnerability'
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-194-02
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 28fe7eac94e553e447a9c2adc102739f
-  item_date: "2016-07-12 00:00:00"
-  title: Tollgrade Smart Grid EMS LightHouse Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-194-01
+- curated_id: 05118614f48ded9feddc743456aac3e5
+  item_date: "2016-07-14 00:00:00"
+  title: Schneider Electric SoMachine HVAC Unsafe ActiveX Control Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-03
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 113d47fb438f51c2bbf77c8e1a4095e8
+  item_date: "2016-07-14 00:00:00"
+  title: Schneider Electric Pelco Digital Sentry Video Management System Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-01
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: b9603e222eda21d6e424358e2d6feb34
@@ -35,23 +47,11 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-02
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 113d47fb438f51c2bbf77c8e1a4095e8
-  item_date: "2016-07-14 00:00:00"
-  title: Schneider Electric Pelco Digital Sentry Video Management System Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 05118614f48ded9feddc743456aac3e5
-  item_date: "2016-07-14 00:00:00"
-  title: Schneider Electric SoMachine HVAC Unsafe ActiveX Control Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-03
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 7ab3dad7c7cf0f08dacfa61fe9772251
+- curated_id: 1aa79a9f20b36f8bf8fb81cd34ce636e
   item_date: "2016-07-18 00:00:00"
-  title: Mitigating the HTTPoxy Vulnerability with NGINX
-  url: https://www.nginx.com/blog/mitigating-the-httpoxy-vulnerability-with-nginx/
-  domain: www.nginx.com
+  title: Apple Releases Multiple Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2016/07/18/Apple-Releases-Multiple-Security-Updates
+  domain: www.us-cert.gov
   image: ""
 - curated_id: f43549bc746e5aa7d78571da4dad640d
   item_date: "2016-07-18 00:00:00"
@@ -59,11 +59,11 @@
   url: https://www.us-cert.gov/ncas/current-activity/2016/07/18/Drupal-Releases-Security-Advisory
   domain: www.us-cert.gov
   image: ""
-- curated_id: 1aa79a9f20b36f8bf8fb81cd34ce636e
+- curated_id: 7ab3dad7c7cf0f08dacfa61fe9772251
   item_date: "2016-07-18 00:00:00"
-  title: Apple Releases Multiple Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2016/07/18/Apple-Releases-Multiple-Security-Updates
-  domain: www.us-cert.gov
+  title: Mitigating the HTTPoxy Vulnerability with NGINX
+  url: https://www.nginx.com/blog/mitigating-the-httpoxy-vulnerability-with-nginx/
+  domain: www.nginx.com
   image: ""
 - curated_id: 4b6394cdd3a78905714723c716fbeddd
   item_date: "2016-07-19 00:00:00"
@@ -77,11 +77,11 @@
   url: http://www.computerworld.com/article/3097202/security/security-software-that-uses-code-hooking-opens-the-door-to-hackers.html#jump
   domain: www.computerworld.com
   image: ""
-- curated_id: 968f4f07966ca7cff736617c1e6dd608
+- curated_id: 4efa3f1414db3d6484f3f2c87c3ba1e5
   item_date: "2016-07-20 00:00:00"
-  title: Oracle issues largest patch bundle ever, fixing 276 security flaws
-  url: http://www.pcworld.com/article/3097813/security/oracle-issues-largest-patch-bundle-ever-fixing-276-security-flaws.html#tk.rss_all
-  domain: www.pcworld.com
+  title: quot;httpoxyquot; CGI vulnerability response
+  url: https://blogs.apache.org/foundation/entry/httpoxy_cgi_vulnerability_response
+  domain: blogs.apache.org
   image: ""
 - curated_id: 3d9ead0029badddb1f084f4e307614f4
   item_date: "2016-07-20 00:00:00"
@@ -89,11 +89,11 @@
   url: https://www.us-cert.gov/ncas/current-activity/2016/07/20/Cisco-Releases-Security-Update
   domain: www.us-cert.gov
   image: ""
-- curated_id: 4efa3f1414db3d6484f3f2c87c3ba1e5
+- curated_id: 968f4f07966ca7cff736617c1e6dd608
   item_date: "2016-07-20 00:00:00"
-  title: quot;httpoxyquot; CGI vulnerability response
-  url: https://blogs.apache.org/foundation/entry/httpoxy_cgi_vulnerability_response
-  domain: blogs.apache.org
+  title: Oracle issues largest patch bundle ever, fixing 276 security flaws
+  url: http://www.pcworld.com/article/3097813/security/oracle-issues-largest-patch-bundle-ever-fixing-276-security-flaws.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: e6a291e0a3c1be6ebb6375521e381756
   item_date: "2016-07-21 00:00:00"
@@ -107,17 +107,11 @@
   url: https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/
   domain: avicoder.me
   image: ""
-- curated_id: e79da99778bd5a32dfa9599bf22b28ea
+- curated_id: e793258d9a065641c17cdeb8c53fae41
   item_date: "2016-07-27 00:00:00"
-  title: Osram Smart Light Bugs Affect Wi-Fi Security
-  url: http://www.pcmag.com/news/346517/osram-smart-light-bugs-affect-wi-fi-security
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 0cf028297920515fb9ab7ae8374516d7
-  item_date: "2016-07-27 00:00:00"
-  title: PPD-41 Stakeholder Message
-  url: https://ics-cert.us-cert.gov/PPD-41-Stakeholder-Message
-  domain: ics-cert.us-cert.gov
+  title: HHS Penalizes Philadelphia Healthcare Organization For HIPAA Violation
+  url: http://www.darkreading.com/risk/compliance/hhs-penalizes-philadelphia-healthcare-organization-for-hipaa-violation/d/d-id/1326417
+  domain: www.darkreading.com
   image: ""
 - curated_id: d15e5dfa5069be6848e5c3c7d010efb8
   item_date: "2016-07-27 00:00:00"
@@ -125,11 +119,42 @@
   url: http://www.darkreading.com/attacks-breaches/kimpton-hotel-chain-investigating-possible-payment-card-breach/d/d-id/1326405
   domain: www.darkreading.com
   image: ""
-- curated_id: e793258d9a065641c17cdeb8c53fae41
+- curated_id: 0cf028297920515fb9ab7ae8374516d7
   item_date: "2016-07-27 00:00:00"
-  title: HHS Penalizes Philadelphia Healthcare Organization For HIPAA Violation
-  url: http://www.darkreading.com/risk/compliance/hhs-penalizes-philadelphia-healthcare-organization-for-hipaa-violation/d/d-id/1326417
+  title: PPD-41 Stakeholder Message
+  url: https://ics-cert.us-cert.gov/PPD-41-Stakeholder-Message
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: e79da99778bd5a32dfa9599bf22b28ea
+  item_date: "2016-07-27 00:00:00"
+  title: Osram Smart Light Bugs Affect Wi-Fi Security
+  url: http://www.pcmag.com/news/346517/osram-smart-light-bugs-affect-wi-fi-security
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 6b2d237a4817be358705fc489f21c457
+  item_date: "2016-08-01 00:00:00"
+  title: Intel Crosswalk bug invalidates SSL protection
+  url: http://www.itsecurityguru.org/2016/08/01/intel-crosswalk-bug-invalidates-ssl-protection/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: b4d00e4f1a316a0e2e014e678dee4f1b
+  item_date: "2016-08-01 00:00:00"
+  title: Hackers allegedly take over airport screens to blast insults about the South
+    China Sea
+  url: http://www.itsecurityguru.org/2016/08/01/hackers-allegedly-take-over-airport-screens-to-blast-insults-about-the-south-china-sea/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 20e1bcd1ce872ff56453606488a8b17d
+  item_date: "2016-08-01 00:00:00"
+  title: 'Crypto Malware: Responding To Machine-Timescale Breaches'
+  url: http://www.darkreading.com/vulnerabilities---threats/crypto-malware-responding-to-machine-timescale-breaches/a/d-id/1326456
   domain: www.darkreading.com
+  image: ""
+- curated_id: feb131d6ed38e227efaa9096925c8ee9
+  item_date: "2016-08-01 00:00:00"
+  title: ACSC Releases Risk Mitigation Strategies Against Malicious Email
+  url: https://www.us-cert.gov/ncas/current-activity/2016/08/01/ACSC-Releases-Risk-Mitigation-Strategies-Against-Malicious-Email
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 08db5c2cc59e4194686b45cbe15619d7
   item_date: "2016-08-01 00:00:00"
@@ -149,36 +174,17 @@
   url: https://blog.opendns.com/2016/08/01/vulnerable-php-forms-abused-locky-distribution/
   domain: blog.opendns.com
   image: ""
-- curated_id: feb131d6ed38e227efaa9096925c8ee9
-  item_date: "2016-08-01 00:00:00"
-  title: ACSC Releases Risk Mitigation Strategies Against Malicious Email
-  url: https://www.us-cert.gov/ncas/current-activity/2016/08/01/ACSC-Releases-Risk-Mitigation-Strategies-Against-Malicious-Email
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: 20e1bcd1ce872ff56453606488a8b17d
-  item_date: "2016-08-01 00:00:00"
-  title: 'Crypto Malware: Responding To Machine-Timescale Breaches'
-  url: http://www.darkreading.com/vulnerabilities---threats/crypto-malware-responding-to-machine-timescale-breaches/a/d-id/1326456
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 6b2d237a4817be358705fc489f21c457
-  item_date: "2016-08-01 00:00:00"
-  title: Intel Crosswalk bug invalidates SSL protection
-  url: http://www.itsecurityguru.org/2016/08/01/intel-crosswalk-bug-invalidates-ssl-protection/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: b4d00e4f1a316a0e2e014e678dee4f1b
-  item_date: "2016-08-01 00:00:00"
-  title: Hackers allegedly take over airport screens to blast insults about the South
-    China Sea
-  url: http://www.itsecurityguru.org/2016/08/01/hackers-allegedly-take-over-airport-screens-to-blast-insults-about-the-south-china-sea/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: 4cb1ef008904af881f154b87444e42dc
+- curated_id: b89b254ecec58105e34aff85570fd03b
   item_date: "2016-08-02 00:00:00"
-  title: 'Talos: Office Macro Attacks Are on the Rise'
-  url: https://continuum.cisco.com/2016/08/02/talos-office-macro-attacks-are-on-the-rise/
-  domain: continuum.cisco.com
+  title: Security Vulnerabilities in Wireless Keyboards
+  url: https://www.schneier.com/blog/archives/2016/08/security_vulner_7.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: f65f726b47541f198d7eacceee9a436e
+  item_date: "2016-08-02 00:00:00"
+  title: Siemens SINEMA Server Privilege Escalation Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-215-02
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: ac75d9bfd1d3dc59b674acc25b013747
   item_date: "2016-08-02 00:00:00"
@@ -193,17 +199,17 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-215-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: f65f726b47541f198d7eacceee9a436e
+- curated_id: 4cb1ef008904af881f154b87444e42dc
   item_date: "2016-08-02 00:00:00"
-  title: Siemens SINEMA Server Privilege Escalation Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-215-02
-  domain: ics-cert.us-cert.gov
+  title: 'Talos: Office Macro Attacks Are on the Rise'
+  url: https://continuum.cisco.com/2016/08/02/talos-office-macro-attacks-are-on-the-rise/
+  domain: continuum.cisco.com
   image: ""
-- curated_id: b89b254ecec58105e34aff85570fd03b
-  item_date: "2016-08-02 00:00:00"
-  title: Security Vulnerabilities in Wireless Keyboards
-  url: https://www.schneier.com/blog/archives/2016/08/security_vulner_7.html
-  domain: www.schneier.com
+- curated_id: 3b588d3bbecfff337a7e6cabec4a7804
+  item_date: "2016-08-03 00:00:00"
+  title: 'Anatomy of an Exploit: Get the Binary'
+  url: https://dzone.com/articles/anatomy-of-an-exploit-get-the-binary
+  domain: dzone.com
   image: ""
 - curated_id: c14a7e68b80b498dddb868fdb38c5389
   item_date: "2016-08-03 00:00:00"
@@ -212,23 +218,17 @@
   url: http://www.itsecurityguru.org/2016/08/03/is-your-email-address-and-password-for-sale-hacker-claims-200m-yahoo-accounts-are-listed-on-a-dark-web-market/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 3b588d3bbecfff337a7e6cabec4a7804
-  item_date: "2016-08-03 00:00:00"
-  title: 'Anatomy of an Exploit: Get the Binary'
-  url: https://dzone.com/articles/anatomy-of-an-exploit-get-the-binary
-  domain: dzone.com
+- curated_id: ad050490a5e7f4a893d775da615b71b9
+  item_date: "2016-08-04 00:00:00"
+  title: Talos Discovers Zero-Day Vulnerabilities in Hancom Office Suite
+  url: http://continuum.cisco.com/2016/08/04/talos-discovers-zero-day-vulnerabilities-in-hancom-office-suite/
+  domain: continuum.cisco.com
   image: ""
 - curated_id: 62a4d14a39dbcaf6e8f10fc373a18f84
   item_date: "2016-08-04 00:00:00"
   title: PC-nuking malware sneakily replaces popular free software on FossHub
   url: http://www.pcworld.com/article/3104180/software/pc-nuking-malware-sneakily-replaces-popular-free-software-on-fosshub.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: ad050490a5e7f4a893d775da615b71b9
-  item_date: "2016-08-04 00:00:00"
-  title: Talos Discovers Zero-Day Vulnerabilities in Hancom Office Suite
-  url: http://continuum.cisco.com/2016/08/04/talos-discovers-zero-day-vulnerabilities-in-hancom-office-suite/
-  domain: continuum.cisco.com
   image: ""
 - curated_id: b42dc03a73aef9bb3eaacbf8974343e1
   item_date: "2016-08-05 00:00:00"
@@ -242,12 +242,6 @@
   url: http://boingboing.net/2016/08/06/computer-monitors-vulnerable-t.html
   domain: boingboing.net
   image: ""
-- curated_id: 7516eb47a09d65d4604f6fce096d2216
-  item_date: "2016-08-08 00:00:00"
-  title: Quadrooter Bug Puts Android Devices At Risk
-  url: http://www.pcmag.com/news/346832/quadrooter-bug-puts-android-devices-at-risk
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 743948b2f6f6b14263a667a3b79208d2
   item_date: "2016-08-08 00:00:00"
   title: Hackers Breach Hundreds of Thousands of Cash Registers
@@ -260,19 +254,18 @@
   url: http://www.pcworld.com/article/3105063/hackers-hit-oracles-micros-payment-systems-division.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
+- curated_id: 7516eb47a09d65d4604f6fce096d2216
+  item_date: "2016-08-08 00:00:00"
+  title: Quadrooter Bug Puts Android Devices At Risk
+  url: http://www.pcmag.com/news/346832/quadrooter-bug-puts-android-devices-at-risk
+  domain: www.pcmag.com
+  image: ""
 - curated_id: 83882ce83421363423eb2d162c2dee79
   item_date: "2016-08-08 08:35:16"
   title: 'Tweet: Breaking, exclusive: Data breach at Oracle compromised usernames/passwords
     for its MICROS point-of-sale customers https://t.co/Oel0qwPIdV'
   url: https://twitter.com/briankrebs/statuses/762673542215393280
   domain: twitter.com
-  image: ""
-- curated_id: f0dcc0a59cabddecb92d749f97608fad
-  item_date: "2016-08-09 00:00:00"
-  title: Russian hackers appear to have infiltrated up to 330,000 computer cash registers
-    sold by Oracle (ORCL)
-  url: http://www.businessinsider.com/russian-hackers-attack-oracles-cash-registers-2016-8
-  domain: www.businessinsider.com
   image: ""
 - curated_id: 19a1a5be8a55eaeedd6deb55b7d3eeec
   item_date: "2016-08-09 00:00:00"
@@ -286,23 +279,30 @@
   url: http://www.itsecurityguru.org/2016/08/09/oracle-micros-payment-terminal-biz-hacked-payments-worldwide-at-risk/
   domain: www.itsecurityguru.org
   image: ""
+- curated_id: f0dcc0a59cabddecb92d749f97608fad
+  item_date: "2016-08-09 00:00:00"
+  title: Russian hackers appear to have infiltrated up to 330,000 computer cash registers
+    sold by Oracle (ORCL)
+  url: http://www.businessinsider.com/russian-hackers-attack-oracles-cash-registers-2016-8
+  domain: www.businessinsider.com
+  image: ""
 - curated_id: 55ac2ea809644685c77ab21e99f2ec82
   item_date: "2016-08-10 00:00:00"
   title: Disable WPAD now or have your accounts and private data compromised
   url: http://www.pcworld.com/article/3105998/disable-wpad-now-or-have-your-accounts-and-private-data-compromised.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 71a780e88ff5a2a0d3a30604783edcf0
-  item_date: "2016-08-11 00:00:00"
-  title: New malware campaign spreads backdoors instead of ransomware
-  url: http://www.itsecurityguru.org/2016/08/11/new-malware-campaign-spreads-backdoors-instead-of-ransomware/
-  domain: www.itsecurityguru.org
-  image: ""
 - curated_id: 2cc653c0185ccaa389c5bdbc53ee15f8
   item_date: "2016-08-11 00:00:00"
   title: Rockwell Automation MicroLogix 1400 SNMP Credentials Vulnerability
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-224-01
   domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 71a780e88ff5a2a0d3a30604783edcf0
+  item_date: "2016-08-11 00:00:00"
+  title: New malware campaign spreads backdoors instead of ransomware
+  url: http://www.itsecurityguru.org/2016/08/11/new-malware-campaign-spreads-backdoors-instead-of-ransomware/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: 547fcbcac5e01e0c6022718182e32ecd
   item_date: "2016-08-11 09:19:00"
@@ -311,23 +311,17 @@
   url: https://twitter.com/opendns/statuses/763771709396701184
   domain: twitter.com
   image: ""
-- curated_id: 8281ee03f892db55f89bd1427163774e
-  item_date: "2016-08-14 00:00:00"
-  title: HEI Hotels reports point-of-sale terminals breach
-  url: http://www.pcworld.com/article/3107281/hei-hotels-reports-point-of-sale-terminals-breach.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: bd0932c44bdb07f7dd8a909aca1aaf77
   item_date: "2016-08-14 00:00:00"
   title: Sage software firm hit by data breach
   url: http://www.bbc.co.uk/news/business-37076704
   domain: www.bbc.co.uk
   image: ""
-- curated_id: b64b85c854de60ba5d01d4db1fe04cef
-  item_date: "2016-08-15 00:00:00"
-  title: Android DroidJack Malware Spreading Via Over-The Top Services
-  url: http://www.darkreading.com/endpoint/android-droidjack-malware-spreading-via-over-the-top-services/d/d-id/1326628
-  domain: www.darkreading.com
+- curated_id: 8281ee03f892db55f89bd1427163774e
+  item_date: "2016-08-14 00:00:00"
+  title: HEI Hotels reports point-of-sale terminals breach
+  url: http://www.pcworld.com/article/3107281/hei-hotels-reports-point-of-sale-terminals-breach.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: a21ab07c1237a40fa25ba36de158be82
   item_date: "2016-08-15 00:00:00"
@@ -335,23 +329,17 @@
   url: https://techcrunch.com/2016/08/15/metapacket-analyzes-outbound-network-traffic-to-flag-and-block-malware/
   domain: techcrunch.com
   image: ""
+- curated_id: b64b85c854de60ba5d01d4db1fe04cef
+  item_date: "2016-08-15 00:00:00"
+  title: Android DroidJack Malware Spreading Via Over-The Top Services
+  url: http://www.darkreading.com/endpoint/android-droidjack-malware-spreading-via-over-the-top-services/d/d-id/1326628
+  domain: www.darkreading.com
+  image: ""
 - curated_id: dec9a8adb89beb41867e2c2cef24bd51
   item_date: "2016-08-16 00:00:00"
   title: 'Software Firm Sage Probes Data Breach '
   url: http://www.darkreading.com/endpoint/software-firm-sage-probes-data-breach-/d/d-id/1326631
   domain: www.darkreading.com
-  image: ""
-- curated_id: b6820de26e44a431bd539052daf80209
-  item_date: "2016-08-17 00:00:00"
-  title: Navis WebAccess SQL Injection Exploitation
-  url: https://ics-cert.us-cert.gov/alerts/IR-ALERT-L-16-230-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 7e93c3010047d18c10694157b321a347
-  item_date: "2016-08-17 00:00:00"
-  title: Prevent Security Breaches Due to Out-of-Date Flash Vulnerabilities
-  url: https://duo.com/blog/prevent-security-breaches-due-to-out-of-date-flash-vulnerabilities
-  domain: duo.com
   image: ""
 - curated_id: ae66311db27031a681668b3b89ed0574
   item_date: "2016-08-17 00:00:00"
@@ -359,17 +347,29 @@
   url: http://www.itsecurityguru.org/2016/08/17/falseconnect-sends-vendors-scrambling-to-patch-proxy-mitm-bug/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: b83dfa60442d140ebbc3079778f18fa9
-  item_date: "2016-08-18 00:00:00"
-  title: Cisco Patches Zero-Day Firewall Flaw Exposed In Equation Group Hack
-  url: http://www.darkreading.com/threat-intelligence/cisco-patches-zero-day-firewall-flaw-exposed-in-equation-group-hack/d/d-id/1326662
-  domain: www.darkreading.com
+- curated_id: 7e93c3010047d18c10694157b321a347
+  item_date: "2016-08-17 00:00:00"
+  title: Prevent Security Breaches Due to Out-of-Date Flash Vulnerabilities
+  url: https://duo.com/blog/prevent-security-breaches-due-to-out-of-date-flash-vulnerabilities
+  domain: duo.com
+  image: ""
+- curated_id: b6820de26e44a431bd539052daf80209
+  item_date: "2016-08-17 00:00:00"
+  title: Navis WebAccess SQL Injection Exploitation
+  url: https://ics-cert.us-cert.gov/alerts/IR-ALERT-L-16-230-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 5f4f3e50220cc5fa5f3a530aebf443e6
   item_date: "2016-08-18 00:00:00"
   title: Navis WebAccess SQL Injection Vulnerability
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-231-01
   domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: b83dfa60442d140ebbc3079778f18fa9
+  item_date: "2016-08-18 00:00:00"
+  title: Cisco Patches Zero-Day Firewall Flaw Exposed In Equation Group Hack
+  url: http://www.darkreading.com/threat-intelligence/cisco-patches-zero-day-firewall-flaw-exposed-in-equation-group-hack/d/d-id/1326662
+  domain: www.darkreading.com
   image: ""
 - curated_id: 719aa3b2304d4b35b824c62cc55b194e
   item_date: "2016-08-18 09:15:08"
@@ -383,17 +383,17 @@
   url: http://www.itsecurityguru.org/2016/08/19/malware-infected-all-eddie-bauer-stores-in-u-s-canada/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: b31bc3139d457649b491f668fa8c35f7
-  item_date: "2016-08-23 00:00:00"
-  title: Moxa OnCell Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-236-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: d80e6a4134bde9ae294b5f452056ffda
   item_date: "2016-08-23 00:00:00"
   title: New Banking Trojan Uses PowerShell to Alter Internet Explorer Proxy Settings
   url: http://www.itsecurityguru.org/2016/08/23/new-banking-trojan-uses-powershell-to-alter-internet-explorer-proxy-settings/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: b31bc3139d457649b491f668fa8c35f7
+  item_date: "2016-08-23 00:00:00"
+  title: Moxa OnCell Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-236-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: c92fa382b4ba4e8246fdcae3f41a0520
   item_date: "2016-08-25 00:00:00"
@@ -433,17 +433,17 @@
   url: http://www.darkreading.com/vulnerabilities---threats/cryptographic-key-reuse-remains-widespread-in-embedded-products/d/d-id/1326826
   domain: www.darkreading.com
   image: ""
-- curated_id: f069cef63b0e34e87acc9353a1ad8cf7
-  item_date: "2016-09-06 00:00:00"
-  title: Siemens SIPROTEC 4 and SIPROTEC Compact Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-250-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: 94ae59ea04c5edb0e5379a43d9555e2b
   item_date: "2016-09-06 00:00:00"
   title: New Report shows 55% of websites have severe vulnerabilities
   url: http://www.itsecurityguru.org/2016/09/06/new-report-shows-55-of-websites-have-severe-vulnerabilities/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: f069cef63b0e34e87acc9353a1ad8cf7
+  item_date: "2016-09-06 00:00:00"
+  title: Siemens SIPROTEC 4 and SIPROTEC Compact Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-250-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 47b3938016b9ab2081efff9ec0818cc3
   item_date: "2016-09-07 00:00:00"
@@ -484,17 +484,36 @@
   url: https://twitter.com/ICSCERT/statuses/775464318930419712
   domain: twitter.com
   image: ""
-- curated_id: 1de6ed16ea7a8a8f085cedcaebd480f9
+- curated_id: 5f10f067edc09e44de8e00c1d552ddfb
   item_date: "2016-09-15 00:00:00"
-  title: How to Easily Protect Against the Trident iOS Vulnerabilities
-  url: https://duo.com/blog/how-to-easily-protect-against-the-trident-ios-vulnerabilities
-  domain: duo.com
+  title: Rockwell Automation RSLogix 500 AND RSLogix Micro File Parser Buffer Overflow
+    Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-224-02
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: fbe56d580c4d733fe84da535f0e0287a
+  item_date: "2016-09-15 00:00:00"
+  title: ABB DataManagerPro Credential Management Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-259-02
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 081dcb1cf452efe7bd0cf1618d1aa7a7
+  item_date: "2016-09-15 00:00:00"
+  title: Yokogawa STARDOM Authentication Bypass Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-259-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: e6213de2ee1baa071a9051ec4fed488c
   item_date: "2016-09-15 00:00:00"
   title: Double-dipping malware steals iOS creds and roots Android
   url: http://www.itsecurityguru.org/2016/09/15/double-dipping-malware-steals-ios-creds-and-roots-android/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 1de6ed16ea7a8a8f085cedcaebd480f9
+  item_date: "2016-09-15 00:00:00"
+  title: How to Easily Protect Against the Trident iOS Vulnerabilities
+  url: https://duo.com/blog/how-to-easily-protect-against-the-trident-ios-vulnerabilities
+  domain: duo.com
   image: ""
 - curated_id: 595c6a3f3bdd75319cfd9d6ba342450c
   item_date: "2016-09-15 00:00:00"
@@ -507,25 +526,6 @@
   title: Sixth Linux DDoS Trojan Discovered in the Last 30 Days
   url: http://www.itsecurityguru.org/2016/09/15/sixth-linux-ddos-trojan-discovered-in-the-last-30-days/
   domain: www.itsecurityguru.org
-  image: ""
-- curated_id: fbe56d580c4d733fe84da535f0e0287a
-  item_date: "2016-09-15 00:00:00"
-  title: ABB DataManagerPro Credential Management Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-259-02
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 5f10f067edc09e44de8e00c1d552ddfb
-  item_date: "2016-09-15 00:00:00"
-  title: Rockwell Automation RSLogix 500 AND RSLogix Micro File Parser Buffer Overflow
-    Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-224-02
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 081dcb1cf452efe7bd0cf1618d1aa7a7
-  item_date: "2016-09-15 00:00:00"
-  title: Yokogawa STARDOM Authentication Bypass Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-259-01
-  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 9605ab556d29a9749f8de6a300eb6d5f
   item_date: "2016-09-15 09:22:39"
@@ -561,6 +561,12 @@
   url: http://www.cxotoday.com/story/mozilla-firefox-vulnerable-to-man-in-the-middle-attack-report/
   domain: www.cxotoday.com
   image: ""
+- curated_id: d380646dec6cec6f1e61fd47953fbd27
+  item_date: "2016-09-20 00:00:00"
+  title: Moxa Active OPC Server Unquoted Service Path Escalation Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-264-01
+  domain: ics-cert.us-cert.gov
+  image: ""
 - curated_id: c43c4eeabe65730d5c9509cfcbf9d7ab
   item_date: "2016-09-20 00:00:00"
   title: Apple Releases Security Updates
@@ -573,11 +579,11 @@
   url: https://www.us-cert.gov/ncas/current-activity/2016/09/20/Mozilla-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: d380646dec6cec6f1e61fd47953fbd27
-  item_date: "2016-09-20 00:00:00"
-  title: Moxa Active OPC Server Unquoted Service Path Escalation Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-264-01
-  domain: ics-cert.us-cert.gov
+- curated_id: 5699537666b01a8d95b495dc09e6f7f3
+  item_date: "2016-09-21 00:00:00"
+  title: Drupal Releases Security Advisory
+  url: https://www.us-cert.gov/ncas/current-activity/2016/09/21/Drupal-Releases-Security-Advisory
+  domain: www.us-cert.gov
   image: ""
 - curated_id: f26e813901605eaa1acf40c22cda22aa
   item_date: "2016-09-21 00:00:00"
@@ -585,23 +591,17 @@
   url: https://www.us-cert.gov/ncas/current-activity/2016/09/21/Cisco-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: 5699537666b01a8d95b495dc09e6f7f3
-  item_date: "2016-09-21 00:00:00"
-  title: Drupal Releases Security Advisory
-  url: https://www.us-cert.gov/ncas/current-activity/2016/09/21/Drupal-Releases-Security-Advisory
-  domain: www.us-cert.gov
+- curated_id: 5d727e049e7060ec27c458f4e25d31d1
+  item_date: "2016-09-27 00:00:00"
+  title: Siemens SCALANCE M-800/S615 Web Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-271-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 2b8cfe0b44b0e763cc38aa3acbe2977c
   item_date: "2016-09-27 00:00:00"
   title: ISC Releases Security Updates for BIND
   url: https://www.us-cert.gov/ncas/current-activity/2016/09/27/ISC-Releases-Security-Updates-BIND
   domain: www.us-cert.gov
-  image: ""
-- curated_id: 5d727e049e7060ec27c458f4e25d31d1
-  item_date: "2016-09-27 00:00:00"
-  title: Siemens SCALANCE M-800/S615 Web Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-271-01
-  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: c8f2a396b368343b0e09773282a58f18
   item_date: "2016-09-28 00:00:00"
@@ -615,12 +615,6 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-273-01-0
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 20b066665a8571d9070e78b3dc52c9d0
-  item_date: "2016-10-04 00:00:00"
-  title: INDAS Web SCADA Path Traversal Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-278-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: 4ec6771f42031c8bd67a2c8ce2e54f5f
   item_date: "2016-10-04 00:00:00"
   title: Homeland Security Warns Certain Huawei Devices Vulnerable To DDoS
@@ -631,6 +625,12 @@
   item_date: "2016-10-04 00:00:00"
   title: Beckhoff Embedded PC Images and TwinCAT Components Vulnerabilities
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-278-02
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 20b066665a8571d9070e78b3dc52c9d0
+  item_date: "2016-10-04 00:00:00"
+  title: INDAS Web SCADA Path Traversal Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-278-01
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 358d15f00b1731424b9764ea65a888ad
@@ -651,12 +651,6 @@
   url: https://www.us-cert.gov/ncas/current-activity/2016/10/07/VMware-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: 45126c4667652a41985a60d392cf25d2
-  item_date: "2016-10-11 00:00:00"
-  title: Microsoft Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2016/10/11/Microsoft-Releases-Security-Updates
-  domain: www.us-cert.gov
-  image: ""
 - curated_id: 8220cec8f40673c2d9845a1342f7f68f
   item_date: "2016-10-11 00:00:00"
   title: 'NIST Released Special Publication: SP 800-150'
@@ -669,11 +663,11 @@
   url: https://www.us-cert.gov/ncas/current-activity/2016/10/11/Adobe-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: 2432e0f377a34758ac492141a26bbd55
-  item_date: "2016-10-12 00:00:00"
-  title: Eko Malware Targets Facebook Users
-  url: http://www.itsecurityguru.org/2016/10/12/eko-malware-targets-facebook-users/
-  domain: www.itsecurityguru.org
+- curated_id: 45126c4667652a41985a60d392cf25d2
+  item_date: "2016-10-11 00:00:00"
+  title: Microsoft Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2016/10/11/Microsoft-Releases-Security-Updates
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 988fbcb6a293d7be90d3db52d4e192e4
   item_date: "2016-10-12 00:00:00"
@@ -686,6 +680,36 @@
   title: Cisco Releases Security Updates
   url: https://www.us-cert.gov/ncas/current-activity/2016/10/12/Cisco-Releases-Security-Updates
   domain: www.us-cert.gov
+  image: ""
+- curated_id: 2432e0f377a34758ac492141a26bbd55
+  item_date: "2016-10-12 00:00:00"
+  title: Eko Malware Targets Facebook Users
+  url: http://www.itsecurityguru.org/2016/10/12/eko-malware-targets-facebook-users/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: e2a86631fd9ce98a5fb964548b3d18ae
+  item_date: "2016-10-13 00:00:00"
+  title: Siemens Automation License Manager Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-02
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 46a0b1835ed0b98956baa8786955815a
+  item_date: "2016-10-13 00:00:00"
+  title: Google Releases Security Update for Chrome
+  url: https://www.us-cert.gov/ncas/current-activity/2016/10/13/Google-Releases-Security-Update-Chrome
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: 293d3cb550660f1f74a2fe370c51295d
+  item_date: "2016-10-13 00:00:00"
+  title: Fatek Automation Designer Memory Corruption Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-06
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 91cc2c4d18b8cbae4bcb97d5a5e62318
+  item_date: "2016-10-13 00:00:00"
+  title: Kabona AB WDC Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-07
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 8660d7c2330559ec2ad48befda820519
   item_date: "2016-10-13 00:00:00"
@@ -703,30 +727,6 @@
   item_date: "2016-10-13 00:00:00"
   title: Siemens SIMATIC STEP 7 (TIA Portal) Information Disclosure Vulnerabilities
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-03
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 293d3cb550660f1f74a2fe370c51295d
-  item_date: "2016-10-13 00:00:00"
-  title: Fatek Automation Designer Memory Corruption Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-06
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: e2a86631fd9ce98a5fb964548b3d18ae
-  item_date: "2016-10-13 00:00:00"
-  title: Siemens Automation License Manager Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-02
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 46a0b1835ed0b98956baa8786955815a
-  item_date: "2016-10-13 00:00:00"
-  title: Google Releases Security Update for Chrome
-  url: https://www.us-cert.gov/ncas/current-activity/2016/10/13/Google-Releases-Security-Update-Chrome
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: 91cc2c4d18b8cbae4bcb97d5a5e62318
-  item_date: "2016-10-13 00:00:00"
-  title: Kabona AB WDC Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-287-07
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 617eb2a754a12c103b0142ce11e85e21
@@ -748,17 +748,17 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-292-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 9baf95c28d4dbf228593df2bac873a60
-  item_date: "2016-10-19 00:00:00"
-  title: Cisco Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2016/10/19/Cisco-Releases-Security-Updates
-  domain: www.us-cert.gov
-  image: ""
 - curated_id: e8f56810cf7cf26d350d8f06ee3d7bfc
   item_date: "2016-10-19 00:00:00"
   title: Oracle fixes 100s of vulnerabilities that put enterprise data at risk
   url: http://www.pcworld.com/article/3132906/oracle-fixes-100s-of-vulnerabilities-that-put-enterprise-data-at-risk.html#tk.rss_all
   domain: www.pcworld.com
+  image: ""
+- curated_id: 9baf95c28d4dbf228593df2bac873a60
+  item_date: "2016-10-19 00:00:00"
+  title: Cisco Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2016/10/19/Cisco-Releases-Security-Updates
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 862b9ebc28efc1d148eadbe87b3783b2
   item_date: "2016-10-20 00:00:00"
@@ -766,22 +766,16 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-294-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 406abac804341f188e186edfc6dd839e
-  item_date: "2016-10-20 00:00:00"
-  title: Mozilla Releases Security Update for Firefox
-  url: https://www.us-cert.gov/ncas/current-activity/2016/10/20/Mozilla-Releases-Security-Update-Firefox
-  domain: www.us-cert.gov
-  image: ""
 - curated_id: 19bb218a890e2bc83b51c6cfc00fc7bd
   item_date: "2016-10-20 00:00:00"
   title: ISC Releases Security Advisory
   url: https://www.us-cert.gov/ncas/current-activity/2016/10/20/ISC-Releases-Security-Advisory
   domain: www.us-cert.gov
   image: ""
-- curated_id: 4d9f57d7c0fb3df123260123c2415fff
-  item_date: "2016-10-21 00:00:00"
-  title: Linux Kernel Vulnerability
-  url: https://www.us-cert.gov/ncas/current-activity/2016/10/21/Linux-Kernel-Vulnerability
+- curated_id: 406abac804341f188e186edfc6dd839e
+  item_date: "2016-10-20 00:00:00"
+  title: Mozilla Releases Security Update for Firefox
+  url: https://www.us-cert.gov/ncas/current-activity/2016/10/20/Mozilla-Releases-Security-Update-Firefox
   domain: www.us-cert.gov
   image: ""
 - curated_id: 99cca38d4e05600dc43f4704d23144c4
@@ -789,6 +783,18 @@
   title: Warnings over Dirty Cow Linux bug
   url: http://www.bbc.co.uk/news/technology-37728010
   domain: www.bbc.co.uk
+  image: ""
+- curated_id: 4d9f57d7c0fb3df123260123c2415fff
+  item_date: "2016-10-21 00:00:00"
+  title: Linux Kernel Vulnerability
+  url: https://www.us-cert.gov/ncas/current-activity/2016/10/21/Linux-Kernel-Vulnerability
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: 5c9c9354a7c2e1c66edf32f24e256f8a
+  item_date: "2016-10-31 00:00:00"
+  title: A look at CMSs from a Vulnerability Researchers View
+  url: https://www.liquidmatrix.org/blog/2016/10/31/look-cmss-vulnerability-researchers-view/
+  domain: www.liquidmatrix.org
   image: ""
 - curated_id: a5b8764257a48b5148b485923cc1a0eb
   item_date: "2016-10-31 00:00:00"
@@ -802,11 +808,23 @@
   url: https://security.googleblog.com/2016/10/disclosing-vulnerabilities-to-protect.html
   domain: security.googleblog.com
   image: ""
-- curated_id: 5c9c9354a7c2e1c66edf32f24e256f8a
-  item_date: "2016-10-31 00:00:00"
-  title: A look at CMSs from a Vulnerability Researchers View
-  url: https://www.liquidmatrix.org/blog/2016/10/31/look-cmss-vulnerability-researchers-view/
-  domain: www.liquidmatrix.org
+- curated_id: 0a299d877311bf72e0d398fef5c18974
+  item_date: "2016-11-01 00:00:00"
+  title: ISC Releases Security Updates for BIND
+  url: https://www.us-cert.gov/ncas/current-activity/2016/11/01/ISC-Releases-Security-Updates-BIND
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: 009c9cf9b66e35813b899d7773858381
+  item_date: "2016-11-01 00:00:00"
+  title: NCCIC/ICS-CERT Advanced Analytical Laboratory Malware Trends White Paper
+  url: https://ics-cert.us-cert.gov/NCCICICS-CERT-Advanced-Analytical-Laboratory-Malware-Trends-White-Paper
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 6366eb0c6b515667fa10c2b6d86649fe
+  item_date: "2016-11-01 00:00:00"
+  title: Schneider Electric ConneXium Buffer Overflow Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-306-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 9c71799108c167be2de6d47488693ab9
   item_date: "2016-11-01 00:00:00"
@@ -818,30 +836,6 @@
   item_date: "2016-11-01 00:00:00"
   title: Schneider Electric Unity PRO Control Flow Management Vulnerability
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-306-03
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 6366eb0c6b515667fa10c2b6d86649fe
-  item_date: "2016-11-01 00:00:00"
-  title: Schneider Electric ConneXium Buffer Overflow Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-306-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 009c9cf9b66e35813b899d7773858381
-  item_date: "2016-11-01 00:00:00"
-  title: NCCIC/ICS-CERT Advanced Analytical Laboratory Malware Trends White Paper
-  url: https://ics-cert.us-cert.gov/NCCICICS-CERT-Advanced-Analytical-Laboratory-Malware-Trends-White-Paper
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 0a299d877311bf72e0d398fef5c18974
-  item_date: "2016-11-01 00:00:00"
-  title: ISC Releases Security Updates for BIND
-  url: https://www.us-cert.gov/ncas/current-activity/2016/11/01/ISC-Releases-Security-Updates-BIND
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: 490745ddc759e00397a73d050a0052dd
-  item_date: "2016-11-03 00:00:00"
-  title: Schneider Electric Magelis HMI Resource Consumption Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-308-02
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: bb8263574f9ef63c90d880ab3de5ce54
@@ -856,17 +850,11 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-308-03
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 427a5db8b602f8d93efa0f98df654aaa
-  item_date: "2016-11-08 00:00:00"
-  title: OSIsoft PI System Incomplete Model of Endpoint Features Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICS-VU-313-03
+- curated_id: 490745ddc759e00397a73d050a0052dd
+  item_date: "2016-11-03 00:00:00"
+  title: Schneider Electric Magelis HMI Resource Consumption Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-308-02
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 6e329465d8103f930de3d075df891a2b
-  item_date: "2016-11-08 00:00:00"
-  title: Microsoft November Security Updates Include Fix For Zero-Day Flaw
-  url: http://www.darkreading.com/endpoint/microsoft-november-security-updates-include-fix-for-zero-day-flaw/d/d-id/1327445
-  domain: www.darkreading.com
   image: ""
 - curated_id: b82a3ffae97987ad2b869c6176014df4
   item_date: "2016-11-08 00:00:00"
@@ -880,36 +868,29 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-313-01
   domain: ics-cert.us-cert.gov
   image: ""
+- curated_id: 427a5db8b602f8d93efa0f98df654aaa
+  item_date: "2016-11-08 00:00:00"
+  title: OSIsoft PI System Incomplete Model of Endpoint Features Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICS-VU-313-03
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 6e329465d8103f930de3d075df891a2b
+  item_date: "2016-11-08 00:00:00"
+  title: Microsoft November Security Updates Include Fix For Zero-Day Flaw
+  url: http://www.darkreading.com/endpoint/microsoft-november-security-updates-include-fix-for-zero-day-flaw/d/d-id/1327445
+  domain: www.darkreading.com
+  image: ""
 - curated_id: 1f3bda7a8045efca147f24a39ac371ed
   item_date: "2016-11-10 00:00:00"
   title: CA Unified Infrastructure Management Directory Traversal Vulnerability
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-315-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 37dee177e2b4ea5f6f18e03583058502
+- curated_id: 1bcb28e0b863b9e6841bbb7bf3715adf
   item_date: "2016-12-13 00:00:00"
-  title: Siemens S7-300/400 PLC Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-05
+  title: Siemens SIMATIC WinCC and SIMATIC PCS 7 ActiveX Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-04
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 11ab4e182202a4aff87f8f001278b043
-  item_date: "2016-12-13 00:00:00"
-  title: Netgear starts patching routers left vulnerable to hacking by a critical
-    flaw
-  url: http://www.pcworld.com/article/3150025/security/netgear-starts-patching-routers-affected-by-a-critical-flaw.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: f0d71ef9fb89c162df4220977e453e82
-  item_date: "2016-12-13 00:00:00"
-  title: Microsoft Releases December 2016 Security Bulletin
-  url: https://www.us-cert.gov/ncas/current-activity/2016/12/13/Microsoft-Releases-December-2016-Security-Bulletin
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: c644e6c7061dda4d2426512fe60467ea
-  item_date: "2016-12-13 00:00:00"
-  title: 'Microsoft Patches Dangerous Backdoor In Skype For Mac OS X '
-  url: http://www.darkreading.com/vulnerabilities---threats/microsoft-patches-dangerous-backdoor-in-skype-for-mac-os-x-/d/d-id/1327712
-  domain: www.darkreading.com
   image: ""
 - curated_id: 3de7283646048c099a83994f422474cf
   item_date: "2016-12-13 00:00:00"
@@ -917,10 +898,10 @@
   url: http://www.isvoc.com/201612142916.html
   domain: www.isvoc.com
   image: ""
-- curated_id: 1bcb28e0b863b9e6841bbb7bf3715adf
+- curated_id: 5b489f3254a6fffd539601bd19a4e4cc
   item_date: "2016-12-13 00:00:00"
-  title: Siemens SIMATIC WinCC and SIMATIC PCS 7 ActiveX Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-04
+  title: Delta Electronics WPLSoft, ISPSoft, and PMSoft Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-03
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 52fee2e6889bfab35e4309b6277dbeff
@@ -929,17 +910,48 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-02
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 5b489f3254a6fffd539601bd19a4e4cc
+- curated_id: c644e6c7061dda4d2426512fe60467ea
   item_date: "2016-12-13 00:00:00"
-  title: Delta Electronics WPLSoft, ISPSoft, and PMSoft Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-03
+  title: 'Microsoft Patches Dangerous Backdoor In Skype For Mac OS X '
+  url: http://www.darkreading.com/vulnerabilities---threats/microsoft-patches-dangerous-backdoor-in-skype-for-mac-os-x-/d/d-id/1327712
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 11ab4e182202a4aff87f8f001278b043
+  item_date: "2016-12-13 00:00:00"
+  title: Netgear starts patching routers left vulnerable to hacking by a critical
+    flaw
+  url: http://www.pcworld.com/article/3150025/security/netgear-starts-patching-routers-affected-by-a-critical-flaw.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 37dee177e2b4ea5f6f18e03583058502
+  item_date: "2016-12-13 00:00:00"
+  title: Siemens S7-300/400 PLC Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-05
   domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: f0d71ef9fb89c162df4220977e453e82
+  item_date: "2016-12-13 00:00:00"
+  title: Microsoft Releases December 2016 Security Bulletin
+  url: https://www.us-cert.gov/ncas/current-activity/2016/12/13/Microsoft-Releases-December-2016-Security-Bulletin
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 3f53a94366e5e08e45c86acffb472256
   item_date: "2016-12-14 00:00:00"
   title: "5-year-old Skype Backdoor Discovered \u2013 Mac OS X Users Urged to..."
   url: http://trueviralnews.com/5-year-old-skype-backdoor-discovered-mac-os-x-users-urged-to-update/
   domain: trueviralnews.com
+  image: ""
+- curated_id: 327e65dc8a5358534f25239825d43e33
+  item_date: "2016-12-15 00:00:00"
+  title: Fatek Automation PLC WinProladder Stack-Based Buffer Overflow Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-350-01
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 11f04c55b34d00efee566c4f82ea47ab
+  item_date: "2016-12-15 00:00:00"
+  title: Microsoft Patches Skype for Mac Backdoor Open for Up to 10 Years
+  url: http://cyberparse.co.uk/2016/12/15/microsoft-patches-skype-for-mac-backdoor-open-for-up-to-10-years/
+  domain: cyberparse.co.uk
   image: ""
 - curated_id: 57683396a3e093803651e4eda15d1a91
   item_date: "2016-12-15 00:00:00"
@@ -951,18 +963,6 @@
   item_date: "2016-12-15 00:00:00"
   title: OmniMetrix OmniView Vulnerabilities
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-350-02
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 11f04c55b34d00efee566c4f82ea47ab
-  item_date: "2016-12-15 00:00:00"
-  title: Microsoft Patches Skype for Mac Backdoor Open for Up to 10 Years
-  url: http://cyberparse.co.uk/2016/12/15/microsoft-patches-skype-for-mac-backdoor-open-for-up-to-10-years/
-  domain: cyberparse.co.uk
-  image: ""
-- curated_id: 327e65dc8a5358534f25239825d43e33
-  item_date: "2016-12-15 00:00:00"
-  title: Fatek Automation PLC WinProladder Stack-Based Buffer Overflow Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-350-01
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: ff21a19b323d9575312581223e846a87
@@ -1003,12 +1003,6 @@
   url: http://www.itsecurityguru.org/2017/01/06/new-android-malware-attacks-wireless-router-phone/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 0a3ef0e5795ce1f68ccd0acde713c4c7
-  item_date: "2017-01-09 00:00:00"
-  title: St. Jude Merlin@home Transmitter Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-009-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: df76b58a88fad88b8d45938013fd856a
   item_date: "2017-01-09 00:00:00"
   title: Google plugs serious Nexus vulnerability in latest security update
@@ -1021,11 +1015,11 @@
   url: http://resources.infosecinstitute.com/vulnerability-of-web-based-applications/
   domain: resources.infosecinstitute.com
   image: ""
-- curated_id: 2d7833d00d34f0a076d7c4ef4c6d3f51
-  item_date: "2017-01-10 00:00:00"
-  title: Adobe Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/01/10/Adobe-Releases-Security-Updates
-  domain: www.us-cert.gov
+- curated_id: 0a3ef0e5795ce1f68ccd0acde713c4c7
+  item_date: "2017-01-09 00:00:00"
+  title: St. Jude Merlin@home Transmitter Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-009-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: edef6ad344a481a701f50e60c2d204b4
   item_date: "2017-01-10 00:00:00"
@@ -1033,23 +1027,17 @@
   url: http://blogs.adobe.com/psirt/
   domain: blogs.adobe.com
   image: ""
+- curated_id: 2d7833d00d34f0a076d7c4ef4c6d3f51
+  item_date: "2017-01-10 00:00:00"
+  title: Adobe Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/01/10/Adobe-Releases-Security-Updates
+  domain: www.us-cert.gov
+  image: ""
 - curated_id: df146d3879a7276592daf9e8de184694
   item_date: "2017-01-11 00:00:00"
   title: "Hack Exposes Reams of Private Jabber Chats\r\n"
   url: http://motherboard.vice.com/read/hack-exposes-reams-of-private-jabber-chats
   domain: motherboard.vice.com
-  image: ""
-- curated_id: 31eab67e26abd953c1b1e204d8bac49e
-  item_date: "2017-01-13 00:00:00"
-  title: "Encrypted messaging platform WhatsApp denies \u201Cbackdoor\u201D claim"
-  url: https://techcrunch.com/2017/01/13/encrypted-messaging-platform-whatsapp-denies-backdoor-claim/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 41727dace6f937b26b74cd06a23158d5
-  item_date: "2017-01-13 00:00:00"
-  title: 'Top security expert: There is no WhatsApp backdoor (FB)'
-  url: http://www.businessinsider.com/top-security-expert-there-is-no-whatsapp-backdoor-2017-1
-  domain: www.businessinsider.com
   image: ""
 - curated_id: 6c4c6da14ef8a44c8a0315f112341137
   item_date: "2017-01-13 00:00:00"
@@ -1058,12 +1046,17 @@
   url: http://boingboing.net/2017/01/13/a-critical-flaw-possibly-a-de.html
   domain: boingboing.net
   image: ""
-- curated_id: f6321e59e76190bfa69c752c10a44623
-  item_date: "2017-01-17 00:00:00"
-  title: Decline in two families of malware has researchers stumped
-  url: |
-    http://thehill.com/policy/cybersecurity/314602-decline-in-two-families-of-malware-has-researchers-stumped
-  domain: thehill.com
+- curated_id: 41727dace6f937b26b74cd06a23158d5
+  item_date: "2017-01-13 00:00:00"
+  title: 'Top security expert: There is no WhatsApp backdoor (FB)'
+  url: http://www.businessinsider.com/top-security-expert-there-is-no-whatsapp-backdoor-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 31eab67e26abd953c1b1e204d8bac49e
+  item_date: "2017-01-13 00:00:00"
+  title: "Encrypted messaging platform WhatsApp denies \u201Cbackdoor\u201D claim"
+  url: https://techcrunch.com/2017/01/13/encrypted-messaging-platform-whatsapp-denies-backdoor-claim/
+  domain: techcrunch.com
   image: ""
 - curated_id: b010b2c9bc69cf2d324777fa63e11590
   item_date: "2017-01-17 00:00:00"
@@ -1071,17 +1064,18 @@
   url: https://developers.googleblog.com/2017/01/silence-speaks-louder-than-words-when.html
   domain: developers.googleblog.com
   image: ""
+- curated_id: f6321e59e76190bfa69c752c10a44623
+  item_date: "2017-01-17 00:00:00"
+  title: Decline in two families of malware has researchers stumped
+  url: |
+    http://thehill.com/policy/cybersecurity/314602-decline-in-two-families-of-malware-has-researchers-stumped
+  domain: thehill.com
+  image: ""
 - curated_id: d51c82d6af27ad194e19e75ad171a761
   item_date: "2017-01-18 00:00:00"
   title: 'Oracle Releases Security Bulletin '
   url: https://www.us-cert.gov/ncas/current-activity/2017/01/18/Oracle-Releases-Security-Bulletin
   domain: www.us-cert.gov
-  image: ""
-- curated_id: 04373574c7fc1827cbf475ceeb40e005
-  item_date: "2017-01-19 00:00:00"
-  title: Old-School Mac OS Malware Spotted Targeting Biomedical Industry
-  url: http://www.darkreading.com/endpoint/old-school-mac-os-malware-spotted-targeting-biomedical-industry/d/d-id/1327936
-  domain: www.darkreading.com
   image: ""
 - curated_id: 67f4fcd97d1d0fe0a3ce20e8b9621b9a
   item_date: "2017-01-19 00:00:00"
@@ -1089,11 +1083,37 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-019-01
   domain: ics-cert.us-cert.gov
   image: ""
+- curated_id: 04373574c7fc1827cbf475ceeb40e005
+  item_date: "2017-01-19 00:00:00"
+  title: Old-School Mac OS Malware Spotted Targeting Biomedical Industry
+  url: http://www.darkreading.com/endpoint/old-school-mac-os-malware-spotted-targeting-biomedical-industry/d/d-id/1327936
+  domain: www.darkreading.com
+  image: ""
 - curated_id: 701c1c401cf580c1751180822a975c04
   item_date: "2017-01-20 00:00:00"
   title: Researchers ID Decades-Old Fruitfly Mac Malware
   url: http://www.pcmag.com/news/351157/researchers-id-decades-old-fruitfly-mac-malware
   domain: www.pcmag.com
+  image: ""
+- curated_id: 4fd6bfcacf743f379f68d9e7a9075fb2
+  item_date: "2017-01-31 00:00:00"
+  title: Positive Technologies discovers security vulnerability in data center monitoring
+    system that could allow remote access to unencrypted passwords
+  url: http://www.itsecurityguru.org/2017/01/31/positive-technologies-discovers-security-vulnerability-data-center-monitoring-system-allow-remote-access-unencrypted-passwords/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: fceac50189830e3b9f05a1e845bfe341
+  item_date: "2017-01-31 00:00:00"
+  title: Tenable Brings Vulnerability Management Platform to the Cloud
+  url: http://shopmatrix.eu/posts/2017/01/tenable-brings-vulnerability-management-platform-to-the-cloud/
+  domain: shopmatrix.eu
+  image: ""
+- curated_id: 88e4fefb6e5388fd7d6334d4cc783d66
+  item_date: "2017-01-31 00:00:00"
+  title: "Tenable Unveils SaaS Platform that Redefines Vulnerability Management for
+    Today\u2019s Elastic IT Environments"
+  url: http://www.itsecurityguru.org/2017/01/31/tenable-unveils-saas-platform-redefines-vulnerability-management-todays-elastic-environments/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: cc97c493a70c4278f5bd8a7b4deb82db
   item_date: "2017-01-31 00:00:00"
@@ -1113,26 +1133,6 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-031-02
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 88e4fefb6e5388fd7d6334d4cc783d66
-  item_date: "2017-01-31 00:00:00"
-  title: "Tenable Unveils SaaS Platform that Redefines Vulnerability Management for
-    Today\u2019s Elastic IT Environments"
-  url: http://www.itsecurityguru.org/2017/01/31/tenable-unveils-saas-platform-redefines-vulnerability-management-todays-elastic-environments/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: 4fd6bfcacf743f379f68d9e7a9075fb2
-  item_date: "2017-01-31 00:00:00"
-  title: Positive Technologies discovers security vulnerability in data center monitoring
-    system that could allow remote access to unencrypted passwords
-  url: http://www.itsecurityguru.org/2017/01/31/positive-technologies-discovers-security-vulnerability-data-center-monitoring-system-allow-remote-access-unencrypted-passwords/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: fceac50189830e3b9f05a1e845bfe341
-  item_date: "2017-01-31 00:00:00"
-  title: Tenable Brings Vulnerability Management Platform to the Cloud
-  url: http://shopmatrix.eu/posts/2017/01/tenable-brings-vulnerability-management-platform-to-the-cloud/
-  domain: shopmatrix.eu
-  image: ""
 - curated_id: 4ef0ced7dc7fb99c6666c1879ecd7b4a
   item_date: "2017-02-06 00:00:00"
   title: Cisco Clock Signal Component Failure Advisory
@@ -1151,17 +1151,11 @@
   url: https://cyware.com/news/devilish-new-ransomware-is-out-on-the-street-2d7de6f6
   domain: cyware.com
   image: ""
-- curated_id: 7288c36874160de38783b58c20e3401c
+- curated_id: 8f146fda9d43836bb222398e275c28f1
   item_date: "2017-02-07 00:00:00"
-  title: Bugcrowd Reduces the Cost and Effort of Unifying Vulnerability Data...
-  url: http://worldnews.se/business/2017/02/07/bugcrowd-reduces-the-cost-and-effort-of-unifying-vulnerability-data-across-systems/
-  domain: worldnews.se
-  image: ""
-- curated_id: 6b2485a02988d395daab4d64332e1211
-  item_date: "2017-02-07 00:00:00"
-  title: 'Report: Security Flaw Lets Hackers Snoop on 76 iPhone Apps'
-  url: http://www.pcmag.com/news/351616/report-security-flaw-lets-hackers-snoop-on-76-iphone-apps
-  domain: www.pcmag.com
+  title: BD Alaris 8015 Insufficiently Protected Credentials Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-017-02
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 70275fdf682e9e976c2b7575059debad
   item_date: "2017-02-07 00:00:00"
@@ -1169,11 +1163,17 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-017-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 8f146fda9d43836bb222398e275c28f1
+- curated_id: 6b2485a02988d395daab4d64332e1211
   item_date: "2017-02-07 00:00:00"
-  title: BD Alaris 8015 Insufficiently Protected Credentials Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-017-02
-  domain: ics-cert.us-cert.gov
+  title: 'Report: Security Flaw Lets Hackers Snoop on 76 iPhone Apps'
+  url: http://www.pcmag.com/news/351616/report-security-flaw-lets-hackers-snoop-on-76-iphone-apps
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 7288c36874160de38783b58c20e3401c
+  item_date: "2017-02-07 00:00:00"
+  title: Bugcrowd Reduces the Cost and Effort of Unifying Vulnerability Data...
+  url: http://worldnews.se/business/2017/02/07/bugcrowd-reduces-the-cost-and-effort-of-unifying-vulnerability-data-across-systems/
+  domain: worldnews.se
   image: ""
 - curated_id: 3734cb4dd86d1557ae2d109060296e86
   item_date: "2017-02-08 00:00:00"
@@ -1193,10 +1193,22 @@
   url: http://www.itsecurityguru.org/2017/02/09/f5s-big-ip-leaks-little-chunks-memory-even-ssl-session-ids/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 336085a09c1c075c0d4abdbf051d2f1c
+- curated_id: c18af6344f45539aa8a7af63b778d636
   item_date: "2017-02-14 00:00:00"
-  title: Siemens SIMATIC Authentication Bypass
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-045-03
+  title: Apple Releases Security Update
+  url: https://www.us-cert.gov/ncas/current-activity/2017/02/14/Apple-Releases-Security-Update
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: 3eadabfefc0f9e6ee2a46ce72d7b22c2
+  item_date: "2017-02-14 00:00:00"
+  title: Adobe Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/02/14/Adobe-Releases-Security-Updates
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: 8b1eb0664d1e2e89c8dfb2655a2bef1c
+  item_date: "2017-02-14 00:00:00"
+  title: "Geutebr\xFCck IP Cameras"
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-045-02
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: b0b6bba04933c51691ba1f0cdf9a50f9
@@ -1205,29 +1217,30 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-045-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 8b1eb0664d1e2e89c8dfb2655a2bef1c
+- curated_id: 336085a09c1c075c0d4abdbf051d2f1c
   item_date: "2017-02-14 00:00:00"
-  title: "Geutebr\xFCck IP Cameras"
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-045-02
+  title: Siemens SIMATIC Authentication Bypass
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-045-03
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 3eadabfefc0f9e6ee2a46ce72d7b22c2
-  item_date: "2017-02-14 00:00:00"
-  title: Adobe Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/02/14/Adobe-Releases-Security-Updates
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: c18af6344f45539aa8a7af63b778d636
-  item_date: "2017-02-14 00:00:00"
-  title: Apple Releases Security Update
-  url: https://www.us-cert.gov/ncas/current-activity/2017/02/14/Apple-Releases-Security-Update
-  domain: www.us-cert.gov
   image: ""
 - curated_id: c020f19ae97cba4de7efd69c32fad48b
   item_date: "2017-02-21 00:00:00"
   title: 'Apple Releases Security Update '
   url: https://www.us-cert.gov/ncas/current-activity/2017/02/21/Apple-Releases-Security-Update
   domain: www.us-cert.gov
+  image: ""
+- curated_id: f62753fb9ae744254ece7ad3661a5937
+  item_date: "2017-02-23 00:00:00"
+  title: 'Operation BugDrop: CyberX Discovers Large-Scale Cyber-Reconnaissance Operation
+    Targeting Ukrainian Organizations'
+  url: https://ics-cert.us-cert.gov/Operation-BugDrop-CyberX-Discovers-Large-Scale-Cyber-Reconnaissance-Operation-Targeting-Ukrainian
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: a14559622d26598c07998e3c69f6db7d
+  item_date: "2017-02-23 00:00:00"
+  title: Schneider Electric Modicon M340 PLC
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-054-03
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 4a841c2ccac8a0e2448c94bc7e360380
   item_date: "2017-02-23 00:00:00"
@@ -1242,25 +1255,55 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-054-02
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: a14559622d26598c07998e3c69f6db7d
-  item_date: "2017-02-23 00:00:00"
-  title: Schneider Electric Modicon M340 PLC
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-054-03
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: f62753fb9ae744254ece7ad3661a5937
-  item_date: "2017-02-23 00:00:00"
-  title: 'Operation BugDrop: CyberX Discovers Large-Scale Cyber-Reconnaissance Operation
-    Targeting Ukrainian Organizations'
-  url: https://ics-cert.us-cert.gov/Operation-BugDrop-CyberX-Discovers-Large-Scale-Cyber-Reconnaissance-Operation-Targeting-Ukrainian
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: a57cb9f744f1dc1b4a7382f6db0efc89
   item_date: "2017-02-23 15:12:26"
   title: 'Tweet: Incident report on memory leak caused by Cloudflare parser bug -
     https://t.co/rTZ4bFw3uJ'
   url: https://twitter.com/Cloudflare/statuses/834903775341121537
   domain: twitter.com
+  image: ""
+- curated_id: 64e35e8aad5b4f6a092a0ff95c143532
+  item_date: "2017-02-24 00:00:00"
+  title: How to secure your data after the Cloudflare leak
+  url: https://techcrunch.com/2017/02/24/how-to-secure-your-data-after-the-cloudflare-leak/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 1486393e10f7769b938f3f87861dfb9a
+  item_date: "2017-02-24 00:00:00"
+  title: Popular website service Cloudflare leaked private data
+  url: |
+    http://thehill.com/policy/cybersecurity/320956-popular-ebsite-service-cloudflare-leaked-private-data
+  domain: thehill.com
+  image: ""
+- curated_id: 50387debd171f6830e72eab64620ffde
+  item_date: "2017-02-24 00:00:00"
+  title: "Cloudbleed \u2014 Your Credentials Cached in Search Engines"
+  url: http://hackaday.com/2017/02/24/cloudbleed-your-credentials-cached-in-search-engines/
+  domain: hackaday.com
+  image: ""
+- curated_id: f8186f0593921ceaf4787f7d7a1dc772
+  item_date: "2017-02-24 00:00:00"
+  title: DigitalOcean, Your Data, and the Cloudflare Vulnerability
+  url: https://www.digitalocean.com/company/blog/digitalocean-your-data-and-the-cloudflare-vulnerability/
+  domain: www.digitalocean.com
+  image: ""
+- curated_id: 8a18ed4980d94ff88092a9ac0f96b7c5
+  item_date: "2017-02-24 00:00:00"
+  title: Announcing the first SHA1 collision
+  url: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
+  domain: security.googleblog.com
+  image: ""
+- curated_id: 15ee957402eae2b7adebe0f8cdee6f79
+  item_date: "2017-02-24 00:00:00"
+  title: 'Cloudflare leak: Please reset your CCID password'
+  url: https://creativecommons.org/2017/02/24/cloudflare-reset-ccid-password/
+  domain: creativecommons.org
+  image: ""
+- curated_id: 2816df1a33eb7539f407c78b4f742f24
+  item_date: "2017-02-24 00:00:00"
+  title: "Cloudflare data leakage doesn\u2019t reveal 1Password secrets"
+  url: http://www.macworld.com/article/3174226/security/cloudflare-data-leakage-doesnt-reveal-1password-secrets.html#tk.rss_all
+  domain: www.macworld.com
   image: ""
 - curated_id: 6b5fb3f622b34770b49d6d2b4f3c49c3
   item_date: "2017-02-24 00:00:00"
@@ -1287,54 +1330,23 @@
   url: http://www.crn.com/news/security/300083920/solution-providers-cloudflare-software-bug-shows-need-for-better-business-data-security-measures.htm
   domain: www.crn.com
   image: ""
-- curated_id: 2816df1a33eb7539f407c78b4f742f24
-  item_date: "2017-02-24 00:00:00"
-  title: "Cloudflare data leakage doesn\u2019t reveal 1Password secrets"
-  url: http://www.macworld.com/article/3174226/security/cloudflare-data-leakage-doesnt-reveal-1password-secrets.html#tk.rss_all
-  domain: www.macworld.com
-  image: ""
-- curated_id: f8186f0593921ceaf4787f7d7a1dc772
-  item_date: "2017-02-24 00:00:00"
-  title: DigitalOcean, Your Data, and the Cloudflare Vulnerability
-  url: https://www.digitalocean.com/company/blog/digitalocean-your-data-and-the-cloudflare-vulnerability/
-  domain: www.digitalocean.com
-  image: ""
-- curated_id: 1486393e10f7769b938f3f87861dfb9a
-  item_date: "2017-02-24 00:00:00"
-  title: Popular website service Cloudflare leaked private data
-  url: |
-    http://thehill.com/policy/cybersecurity/320956-popular-ebsite-service-cloudflare-leaked-private-data
-  domain: thehill.com
-  image: ""
-- curated_id: 64e35e8aad5b4f6a092a0ff95c143532
-  item_date: "2017-02-24 00:00:00"
-  title: How to secure your data after the Cloudflare leak
-  url: https://techcrunch.com/2017/02/24/how-to-secure-your-data-after-the-cloudflare-leak/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 8a18ed4980d94ff88092a9ac0f96b7c5
-  item_date: "2017-02-24 00:00:00"
-  title: Announcing the first SHA1 collision
-  url: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
-  domain: security.googleblog.com
-  image: ""
-- curated_id: 50387debd171f6830e72eab64620ffde
-  item_date: "2017-02-24 00:00:00"
-  title: "Cloudbleed \u2014 Your Credentials Cached in Search Engines"
-  url: http://hackaday.com/2017/02/24/cloudbleed-your-credentials-cached-in-search-engines/
-  domain: hackaday.com
-  image: ""
-- curated_id: 15ee957402eae2b7adebe0f8cdee6f79
-  item_date: "2017-02-24 00:00:00"
-  title: 'Cloudflare leak: Please reset your CCID password'
-  url: https://creativecommons.org/2017/02/24/cloudflare-reset-ccid-password/
-  domain: creativecommons.org
-  image: ""
 - curated_id: 3d0acff65092399fa52926aae0f45bf1
   item_date: "2017-03-01 00:00:00"
   title: Cisco Releases Security Update
   url: https://www.us-cert.gov/ncas/current-activity/2017/03/01/Cisco-Releases-Security-Update
   domain: www.us-cert.gov
+  image: ""
+- curated_id: 0d845245baa9bcb5e739fb005726594d
+  item_date: "2017-03-02 00:00:00"
+  title: Siemens SINUMERIK Integrate and SINUMERIK Operate
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-03
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 1275bffbe71355eb35fa5d378f1ed9e3
+  item_date: "2017-03-02 00:00:00"
+  title: Schneider Electric Conext ComBox
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-02
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: fbdb93d6796939fae2a7c64669b67b70
   item_date: "2017-03-02 00:00:00"
@@ -1346,18 +1358,6 @@
   item_date: "2017-03-02 00:00:00"
   title: Eaton xComfort Ethernet Communication Interface
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 1275bffbe71355eb35fa5d378f1ed9e3
-  item_date: "2017-03-02 00:00:00"
-  title: Schneider Electric Conext ComBox
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-02
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 0d845245baa9bcb5e739fb005726594d
-  item_date: "2017-03-02 00:00:00"
-  title: Siemens SINUMERIK Integrate and SINUMERIK Operate
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-03
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 1c56ed8e88b049fc5d6bfe64379bac88
@@ -1372,6 +1372,13 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/03/07/Mozilla-Releases-Security-Update
   domain: www.us-cert.gov
   image: ""
+- curated_id: 8e8b6e6b12d1db674ffb66cbdb8a1091
+  item_date: "2017-03-08 00:00:00"
+  title: "The White House\u2019s favorite \u2018secure\u2019 messaging app is riddled
+    with bugs"
+  url: https://thenextweb.com/apps/2017/03/08/white-house-messaging-app-confide/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 24e4965969c667984683f1a047d36be4
   item_date: "2017-03-08 00:00:00"
   title: Apache Software Foundation Releases Security Updates
@@ -1385,12 +1392,24 @@
     http://thehill.com/policy/cybersecurity/322963-wh-staffer-favorite-encrypted-chat-app-had-easy-to-target-security-flaws
   domain: thehill.com
   image: ""
-- curated_id: 8e8b6e6b12d1db674ffb66cbdb8a1091
-  item_date: "2017-03-08 00:00:00"
-  title: "The White House\u2019s favorite \u2018secure\u2019 messaging app is riddled
-    with bugs"
-  url: https://thenextweb.com/apps/2017/03/08/white-house-messaging-app-confide/
-  domain: thenextweb.com
+- curated_id: 92fd884b91bd3d4af387736a6e4e95cf
+  item_date: "2017-03-09 00:00:00"
+  title: Google Releases Security Update for Chrome
+  url: https://www.us-cert.gov/ncas/current-activity/2017/03/09/Google-Releases-Security-Update-Chrome
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: e6aa0ef48e0984c65d9290ba9d63a6ca
+  item_date: "2017-03-09 00:00:00"
+  title: 'Report: Government-held security vulnerabilities last for years'
+  url: |
+    http://thehill.com/business-a-lobbying/323155-report-outlines-shelf-life-of-government-held-security-vulnerabilities
+  domain: thehill.com
+  image: ""
+- curated_id: 9906e73c9326e6466371336a0dee19c9
+  item_date: "2017-03-09 00:00:00"
+  title: IRS Releases Tax-Time Guide
+  url: https://www.us-cert.gov/ncas/current-activity/2017/03/09/IRS-Releases-Tax-Time-Guide
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 1b0ca8abbc65a2472f1f347c89a29f92
   item_date: "2017-03-09 00:00:00"
@@ -1411,25 +1430,6 @@
   url: http://www.theverge.com/2017/3/9/14866110/google-wikileaks-cia-documents-fixed-exploits
   domain: www.theverge.com
   image: ""
-- curated_id: e6aa0ef48e0984c65d9290ba9d63a6ca
-  item_date: "2017-03-09 00:00:00"
-  title: 'Report: Government-held security vulnerabilities last for years'
-  url: |
-    http://thehill.com/business-a-lobbying/323155-report-outlines-shelf-life-of-government-held-security-vulnerabilities
-  domain: thehill.com
-  image: ""
-- curated_id: 9906e73c9326e6466371336a0dee19c9
-  item_date: "2017-03-09 00:00:00"
-  title: IRS Releases Tax-Time Guide
-  url: https://www.us-cert.gov/ncas/current-activity/2017/03/09/IRS-Releases-Tax-Time-Guide
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: 92fd884b91bd3d4af387736a6e4e95cf
-  item_date: "2017-03-09 00:00:00"
-  title: Google Releases Security Update for Chrome
-  url: https://www.us-cert.gov/ncas/current-activity/2017/03/09/Google-Releases-Security-Update-Chrome
-  domain: www.us-cert.gov
-  image: ""
 - curated_id: e6b6eafbe4c2e18ac73b5261153c98a9
   item_date: "2017-03-10 00:00:00"
   title: 'A Challenge to WikiLeaks: Disclose Software Vulnerabilities on a Responsible
@@ -1443,6 +1443,18 @@
   url: http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html
   domain: blogs.adobe.com
   image: ""
+- curated_id: 6df04c791c2755506fbcb2973e0fe3b5
+  item_date: "2017-03-14 00:00:00"
+  title: Ursnif Malware
+  url: http://resources.infosecinstitute.com/ursnif-malware/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 71627f316659ceab95452b3221d592dd
+  item_date: "2017-03-14 00:00:00"
+  title: Adobe Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/03/14/Adobe-Releases-Security-Updates
+  domain: www.us-cert.gov
+  image: ""
 - curated_id: 81705b6e078ada09531a1d50323df0f2
   item_date: "2017-03-14 00:00:00"
   title: Fatek Automation PLC Ethernet Module
@@ -1455,23 +1467,11 @@
   url: https://www.eagleeyenetworks.com/vulnerabilities-wifi-camera-models/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: 71627f316659ceab95452b3221d592dd
-  item_date: "2017-03-14 00:00:00"
-  title: Adobe Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/03/14/Adobe-Releases-Security-Updates
-  domain: www.us-cert.gov
-  image: ""
-- curated_id: 6df04c791c2755506fbcb2973e0fe3b5
-  item_date: "2017-03-14 00:00:00"
-  title: Ursnif Malware
-  url: http://resources.infosecinstitute.com/ursnif-malware/
-  domain: resources.infosecinstitute.com
-  image: ""
-- curated_id: 7d1881432e94e91fae103cac4641e707
+- curated_id: 3d3e1cd99c49deb70f95ec89182c8392
   item_date: "2017-03-15 00:00:00"
-  title: Drupal Releases Security Update
-  url: https://www.us-cert.gov/ncas/current-activity/2017/03/15/Drupal-Releases-Security-Update
-  domain: www.us-cert.gov
+  title: WhatsApp Hack Shows That Even Encryption Apps Are Vulnerable in a Browser
+  url: https://www.wired.com/2017/03/whatsapp-hack-shows-even-encryption-apps-vulnerable-browser/
+  domain: www.wired.com
   image: ""
 - curated_id: 95d6eaa9b2a4b4ed1e97fe06dda1cbb9
   item_date: "2017-03-15 00:00:00"
@@ -1479,17 +1479,23 @@
   url: http://www.pcworld.com/article/3181406/security/microsoft-fixes-record-number-of-flaws-some-publicly-known.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 3d3e1cd99c49deb70f95ec89182c8392
+- curated_id: 7d1881432e94e91fae103cac4641e707
   item_date: "2017-03-15 00:00:00"
-  title: WhatsApp Hack Shows That Even Encryption Apps Are Vulnerable in a Browser
-  url: https://www.wired.com/2017/03/whatsapp-hack-shows-even-encryption-apps-vulnerable-browser/
-  domain: www.wired.com
+  title: Drupal Releases Security Update
+  url: https://www.us-cert.gov/ncas/current-activity/2017/03/15/Drupal-Releases-Security-Update
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 18244f915284750a27722a996880864f
   item_date: "2017-03-17 00:00:00"
   title: 'Vulnerability Management in 2017: Context is King'
   url: http://www.bmc.com/blogs/vulnerability-management-2017-context-king/
   domain: www.bmc.com
+  image: ""
+- curated_id: d4d62a89c99eab75cfe1d7a802ad8442
+  item_date: "2017-03-21 00:00:00"
+  title: Cisco Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/03/21/Title-Cisco-Releases-Security-Updates
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 809ec0e8450070e2fe7e239a41ed8b6d
   item_date: "2017-03-21 00:00:00"
@@ -1504,10 +1510,10 @@
   url: http://www.darkreading.com/vulnerabilities---threats/cisco-issues-advisory-on-flaw-in-hundreds-of-switches/d/d-id/1328446
   domain: www.darkreading.com
   image: ""
-- curated_id: d4d62a89c99eab75cfe1d7a802ad8442
-  item_date: "2017-03-21 00:00:00"
-  title: Cisco Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/03/21/Title-Cisco-Releases-Security-Updates
+- curated_id: 72f7c8ad12fecfa99a4113eca6231433
+  item_date: "2017-03-22 00:00:00"
+  title: Vulnerabilities Identified in Network Time Protocol Daemon (ntpd)
+  url: https://www.us-cert.gov/ncas/current-activity/2017/03/22/Vulnerabilities-Identified-Network-Time-Protocol-Daemon-ntpd
   domain: www.us-cert.gov
   image: ""
 - curated_id: f37226096522d7709e47ecb765c3e774
@@ -1516,23 +1522,17 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/03/22/Cisco-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: 72f7c8ad12fecfa99a4113eca6231433
-  item_date: "2017-03-22 00:00:00"
-  title: Vulnerabilities Identified in Network Time Protocol Daemon (ntpd)
-  url: https://www.us-cert.gov/ncas/current-activity/2017/03/22/Vulnerabilities-Identified-Network-Time-Protocol-Daemon-ntpd
-  domain: www.us-cert.gov
+- curated_id: c3c3becc50c6798b954618a907fc99ec
+  item_date: "2017-03-24 00:00:00"
+  title: Cisco Patches Critical IOX Vulnerability
+  url: http://www.itsecurityguru.org/2017/03/24/cisco-patches-critical-iox-vulnerability/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: 45894418f82baee7ef38d9fac93aa688
   item_date: "2017-03-24 00:00:00"
   title: Apple Releases Security Update for iTunes
   url: https://www.us-cert.gov/ncas/current-activity/2017/03/24/Apple-Releases-Security-Update-iTunes
   domain: www.us-cert.gov
-  image: ""
-- curated_id: c3c3becc50c6798b954618a907fc99ec
-  item_date: "2017-03-24 00:00:00"
-  title: Cisco Patches Critical IOX Vulnerability
-  url: http://www.itsecurityguru.org/2017/03/24/cisco-patches-critical-iox-vulnerability/
-  domain: www.itsecurityguru.org
   image: ""
 - curated_id: ff7a0632aa3cd29a3cff0435dbe887e0
   item_date: "2017-04-04 00:00:00"
@@ -1546,18 +1546,18 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-094-01
   domain: ics-cert.us-cert.gov
   image: ""
+- curated_id: 302d8fe4586a369359de202fc0496210
+  item_date: "2017-04-05 00:00:00"
+  title: Cisco Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/04/06/Cisco-Releases-Security-Updates
+  domain: www.us-cert.gov
+  image: ""
 - curated_id: c2fbf14901643fdc1cb4244222c4418e
   item_date: "2017-04-05 00:00:00"
   title: 'Brute Forcing HS256 Is Possible: The Importance of Using Strong Keys in
     Signing JWTs'
   url: https://dzone.com/articles/brute-forcing-hs256-is-possible-the-importance-of
   domain: dzone.com
-  image: ""
-- curated_id: 302d8fe4586a369359de202fc0496210
-  item_date: "2017-04-05 00:00:00"
-  title: Cisco Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/04/06/Cisco-Releases-Security-Updates
-  domain: www.us-cert.gov
   image: ""
 - curated_id: 064bc9b0f8633e84e5d0263c97d1e409
   item_date: "2017-04-07 04:34:01"
@@ -1577,23 +1577,17 @@
   url: http://www.itsecurityguru.org/2017/04/10/ms-office-zero-day-exploited-attacks-no-enabling-macros-required/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: eef8fc2e8df09947ed1c051f9d836a17
-  item_date: "2017-04-11 00:00:00"
-  title: Schneider Electric Modicon Modbus Protocol
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-101-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: cc0c58bc25121b9de38ab1e70e461546
   item_date: "2017-04-11 00:00:00"
   title: "Your phone\u2019s fingerprint lock has a weakness"
   url: http://www.futurity.org/fingerprint-phone-security-1398662/
   domain: www.futurity.org
   image: ""
-- curated_id: 180a3166f95daf6ad4c5f2c07ea16087
-  item_date: "2017-04-12 00:00:00"
-  title: 'Microsoft Releases April 2017 Security Updates '
-  url: https://www.us-cert.gov/ncas/current-activity/2017/04/12/Microsoft-Releases-April-2017-Security-Updates
-  domain: www.us-cert.gov
+- curated_id: eef8fc2e8df09947ed1c051f9d836a17
+  item_date: "2017-04-11 00:00:00"
+  title: Schneider Electric Modicon Modbus Protocol
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-101-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: f91cc4a5d05a8e01abc43c1c8a1f7c87
   item_date: "2017-04-12 00:00:00"
@@ -1607,11 +1601,11 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/04/12/Apache-Software-Foundation-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: 22a050c648dc124940967e551b08998e
-  item_date: "2017-04-13 00:00:00"
-  title: Schneider Electric Modicon M221 PLCs and SoMachine Basic
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-103-02
-  domain: ics-cert.us-cert.gov
+- curated_id: 180a3166f95daf6ad4c5f2c07ea16087
+  item_date: "2017-04-12 00:00:00"
+  title: 'Microsoft Releases April 2017 Security Updates '
+  url: https://www.us-cert.gov/ncas/current-activity/2017/04/12/Microsoft-Releases-April-2017-Security-Updates
+  domain: www.us-cert.gov
   image: ""
 - curated_id: 6e62fe5022fd93e72cb0c599b2551f4c
   item_date: "2017-04-13 00:00:00"
@@ -1619,11 +1613,11 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-103-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 9ef30fab9c257e040523313bf243698f
-  item_date: "2017-04-14 00:00:00"
-  title: Unpatched PHP Flaw in E-Commerce Platform Leaves 200,000 Sites Vunerable
-  url: https://continuum.cisco.com/2017/04/14/unpatched-php-flaw-in-e-commerce-platform-leaves-200000-vunerable/
-  domain: continuum.cisco.com
+- curated_id: 22a050c648dc124940967e551b08998e
+  item_date: "2017-04-13 00:00:00"
+  title: Schneider Electric Modicon M221 PLCs and SoMachine Basic
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-103-02
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 4c5a3181bf3e700aa93bfa24523b05b3
   item_date: "2017-04-14 00:00:00"
@@ -1631,17 +1625,11 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/04/14/VMware-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: 09734233a76c674cbec06c0e0840f3b9
-  item_date: "2017-04-15 00:00:00"
-  title: 'We Can Calm Down: Microsoft Already Patched Most of the Shadow Brokers Exploits'
-  url: https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: 34bc353879de09643177573b2ab1f04d
-  item_date: "2017-04-15 00:00:00"
-  title: Microsoft has already patched the NSAs leaked Windows hacks
-  url: http://www.theverge.com/2017/4/15/15311846/microsoft-windows-shadow-brokers-nsa-hacks-patched
-  domain: www.theverge.com
+- curated_id: 9ef30fab9c257e040523313bf243698f
+  item_date: "2017-04-14 00:00:00"
+  title: Unpatched PHP Flaw in E-Commerce Platform Leaves 200,000 Sites Vunerable
+  url: https://continuum.cisco.com/2017/04/14/unpatched-php-flaw-in-e-commerce-platform-leaves-200000-vunerable/
+  domain: continuum.cisco.com
   image: ""
 - curated_id: b686ce86e11ea884cedddc80ffe7e20d
   item_date: "2017-04-15 00:00:00"
@@ -1650,16 +1638,34 @@
   url: https://techcrunch.com/2017/04/15/microsoft-says-exploits-leaked-by-shadow-brokers-were-addressed-by-prior-patches/
   domain: techcrunch.com
   image: ""
+- curated_id: 34bc353879de09643177573b2ab1f04d
+  item_date: "2017-04-15 00:00:00"
+  title: Microsoft has already patched the NSAs leaked Windows hacks
+  url: http://www.theverge.com/2017/4/15/15311846/microsoft-windows-shadow-brokers-nsa-hacks-patched
+  domain: www.theverge.com
+  image: ""
+- curated_id: 09734233a76c674cbec06c0e0840f3b9
+  item_date: "2017-04-15 00:00:00"
+  title: 'We Can Calm Down: Microsoft Already Patched Most of the Shadow Brokers Exploits'
+  url: https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: a2fbb0f5319a3613f11b3ed90cb3313e
+  item_date: "2017-04-18 00:00:00"
+  title: VMware Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/04/18/VMware-Releases-Security-Updates
+  domain: www.us-cert.gov
+  image: ""
 - curated_id: a0dc07aa1c6fb0857804399af69e91d4
   item_date: "2017-04-18 00:00:00"
   title: Oracle Releases Security Bulletin
   url: https://www.us-cert.gov/ncas/current-activity/2017/04/18/Oracle-Releases-Security-Bulletin
   domain: www.us-cert.gov
   image: ""
-- curated_id: a2fbb0f5319a3613f11b3ed90cb3313e
-  item_date: "2017-04-18 00:00:00"
-  title: VMware Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/04/18/VMware-Releases-Security-Updates
+- curated_id: b6db7a061ab0a61ecf44d52c8a7fed04
+  item_date: "2017-04-19 00:00:00"
+  title: Mozilla Releases Security Updates
+  url: https://www.us-cert.gov/ncas/current-activity/2017/04/19/Mozilla-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
 - curated_id: bc4ee12ebdb3149a9fa9976906744f89
@@ -1674,23 +1680,17 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/04/19/Drupal-Releases-Security-Updates
   domain: www.us-cert.gov
   image: ""
-- curated_id: b6db7a061ab0a61ecf44d52c8a7fed04
-  item_date: "2017-04-19 00:00:00"
-  title: Mozilla Releases Security Updates
-  url: https://www.us-cert.gov/ncas/current-activity/2017/04/19/Mozilla-Releases-Security-Updates
-  domain: www.us-cert.gov
+- curated_id: a89fcfcb827cdba510592694ca392cd9
+  item_date: "2017-04-20 00:00:00"
+  title: 'Fake Delta Airlines Receipt Packs Malware '
+  url: http://www.darkreading.com/attacks-breaches/fake-delta-airlines-receipt-packs-malware-/d/d-id/1328692
+  domain: www.darkreading.com
   image: ""
 - curated_id: 1183ff27c8ee7d582508aad06ea8def4
   item_date: "2017-04-20 00:00:00"
   title: Drupal fixes critical access bypass vulnerability
   url: http://www.pcworld.com/article/3191451/security/drupal-fixes-critical-access-bypass-vulnerability.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: a89fcfcb827cdba510592694ca392cd9
-  item_date: "2017-04-20 00:00:00"
-  title: 'Fake Delta Airlines Receipt Packs Malware '
-  url: http://www.darkreading.com/attacks-breaches/fake-delta-airlines-receipt-packs-malware-/d/d-id/1328692
-  domain: www.darkreading.com
   image: ""
 - curated_id: 2fc66f4a56ec15215610c47e93eefb1a
   item_date: "2017-04-25 00:00:00"
@@ -1716,6 +1716,18 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/05/01/Intel-Firmware-Vulnerability
   domain: www.us-cert.gov
   image: ""
+- curated_id: f7c60bea8bf2e7c182618c43c19ccf6f
+  item_date: "2017-05-02 00:00:00"
+  title: Google Releases Security Updates for Chrome
+  url: https://www.us-cert.gov/ncas/current-activity/2017/05/02/Google-Releases-Security-Updates-Chrome
+  domain: www.us-cert.gov
+  image: ""
+- curated_id: 9a9c40b90307efc7a3ec5f9b055589d5
+  item_date: "2017-05-02 00:00:00"
+  title: Schneider Electric Wonderware Historian Client
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-122-01
+  domain: ics-cert.us-cert.gov
+  image: ""
 - curated_id: 9325b3dc36a6634b987fb2debca734f0
   item_date: "2017-05-02 00:00:00"
   title: CyberVision Kaa IoT Platform
@@ -1727,18 +1739,6 @@
   title: Advantech B+B SmartWorx MESR901
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-122-03
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 9a9c40b90307efc7a3ec5f9b055589d5
-  item_date: "2017-05-02 00:00:00"
-  title: Schneider Electric Wonderware Historian Client
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-122-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: f7c60bea8bf2e7c182618c43c19ccf6f
-  item_date: "2017-05-02 00:00:00"
-  title: Google Releases Security Updates for Chrome
-  url: https://www.us-cert.gov/ncas/current-activity/2017/05/02/Google-Releases-Security-Updates-Chrome
-  domain: www.us-cert.gov
   image: ""
 - curated_id: 2d58af0bc511c22dd75254ac385cac1b
   item_date: "2017-05-05 00:00:00"
@@ -1752,18 +1752,6 @@
   url: https://www.us-cert.gov/ncas/current-activity/2017/05/08/Microsoft-Releases-Critical-Security-Update
   domain: www.us-cert.gov
   image: ""
-- curated_id: 76afdb3b7aee62bea387696b21f6af1b
-  item_date: "2017-05-09 00:00:00"
-  title: Microsoft fixes 55 vulnerabilities, 3 exploited by Russian cyberspies
-  url: http://www.pcworld.com/article/3195809/security/microsoft-fixes-55-vulnerabilities-3-exploited-by-russian-cyberspies.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: b4d1905ad613a51966b40f3ec69c03e6
-  item_date: "2017-05-09 00:00:00"
-  title: Siemens devices using the PROFINET Discovery and Configuration Protocol
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-129-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: d425d0ead8b346f13155e44a6ef2b5e6
   item_date: "2017-05-09 00:00:00"
   title: Siemens devices using the PROFINET Discovery and Configuration Protocol
@@ -1775,6 +1763,24 @@
   title: Rockwell Automation Stratix 5900
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-094-04
   domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: b4d1905ad613a51966b40f3ec69c03e6
+  item_date: "2017-05-09 00:00:00"
+  title: Siemens devices using the PROFINET Discovery and Configuration Protocol
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-129-01
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 76afdb3b7aee62bea387696b21f6af1b
+  item_date: "2017-05-09 00:00:00"
+  title: Microsoft fixes 55 vulnerabilities, 3 exploited by Russian cyberspies
+  url: http://www.pcworld.com/article/3195809/security/microsoft-fixes-55-vulnerabilities-3-exploited-by-russian-cyberspies.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: e42f761f8028a9813625dfdc5a037050
+  item_date: "2017-05-10 00:00:00"
+  title: Google Researchers Discover Worst Windows Bug
+  url: http://www.pcmag.com/news/353560/google-researchers-discover-worst-windows-bug
+  domain: www.pcmag.com
   image: ""
 - curated_id: 743b5e7c60bf115c0466a82603ba1980
   item_date: "2017-05-10 00:00:00"
@@ -1788,29 +1794,23 @@
   url: http://www.itsecurityguru.org/2017/05/10/cisco-patches-leaked-0-day-300-switches/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: e42f761f8028a9813625dfdc5a037050
-  item_date: "2017-05-10 00:00:00"
-  title: Google Researchers Discover Worst Windows Bug
-  url: http://www.pcmag.com/news/353560/google-researchers-discover-worst-windows-bug
-  domain: www.pcmag.com
-  image: ""
 - curated_id: c3c626e28f6ca30fc378d698a0d6aa10
   item_date: "2017-05-11 00:00:00"
   title: Satel Iberia SenNet Data Logger and Electricity Meters
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-131-02
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 3002ca93c69adeb347685a4837104c30
-  item_date: "2017-05-12 00:00:00"
-  title: Multiple Ransomware Infections Reported
-  url: https://www.us-cert.gov/ncas/current-activity/2017/05/12/Multiple-Ransomware-Infections-Reported
-  domain: www.us-cert.gov
-  image: ""
 - curated_id: da0d77ad027ce2b49ad82bbe627dbd83
   item_date: "2017-05-12 00:00:00"
   title: Unpatched 0-days in Vanilla Forums let Remote Attackers Hack Websites
   url: http://www.itsecurityguru.org/2017/05/12/unpatched-0-days-vanilla-forums-let-remote-attackers-hack-websites/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 3002ca93c69adeb347685a4837104c30
+  item_date: "2017-05-12 00:00:00"
+  title: Multiple Ransomware Infections Reported
+  url: https://www.us-cert.gov/ncas/current-activity/2017/05/12/Multiple-Ransomware-Infections-Reported
+  domain: www.us-cert.gov
   image: ""
 - curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_15ca3275fc5:25ffefa:569c585
   item_date: "2017-06-13 13:23:28"
@@ -2037,5 +2037,107 @@
     Vulnerability'
   url: https://blogs.cisco.com/?p=224724
   domain: blogs.cisco.com
+  image: ""
+- curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_15da7c1015d:3a174e:41b98b00
+  item_date: "2017-08-03 04:00:24"
+  title: Two Popular IP Cameras Riddled With Vulnerabilities
+  url: https://kasperskycontenthub.com/threatpost/?p=127172
+  domain: kasperskycontenthub.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15da8a4ab3d:4ff64d:ce556ce1
+  item_date: "2017-08-03 08:00:00"
+  title: DoJ Launches Framework for Vulnerability Disclosure Programs
+  url: https://www.darkreading.com/vulnerabilities---threats/doj-launches-framework-for-vulnerability-disclosure-programs/d/d-id/1329514
+  domain: www.darkreading.com
+  image: ""
+- curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_15da9cb69b7:62539:6c0c5382
+  item_date: "2017-08-03 13:30:54"
+  title: Cisco Fixes DoS, Authentication Bypass Vulnerabilities, OSPF Bug
+  url: https://kasperskycontenthub.com/threatpost/?p=127185
+  domain: kasperskycontenthub.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d833:9cc60c90
+  item_date: "2017-08-03 22:19:21"
+  title: Red Hat Security Advisory 2017
+  url: https://packetstormsecurity.com/files/143646/RHSA-2017-2418-01.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d834:9cc60c90
+  item_date: "2017-08-03 22:19:27"
+  title: Ubuntu Security Notice USN
+  url: https://packetstormsecurity.com/files/143647/USN-3377-1.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d835:9cc60c90
+  item_date: "2017-08-03 22:19:35"
+  title: Ubuntu Security Notice USN
+  url: https://packetstormsecurity.com/files/143648/USN-3377-2.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d836:9cc60c90
+  item_date: "2017-08-03 22:19:43"
+  title: Ubuntu Security Notice USN
+  url: https://packetstormsecurity.com/files/143649/USN-3378-1.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d837:9cc60c90
+  item_date: "2017-08-03 22:20:06"
+  title: Ubuntu Security Notice USN
+  url: https://packetstormsecurity.com/files/143650/USN-3378-2.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d838:9cc60c90
+  item_date: "2017-08-03 22:23:15"
+  title: Muviko 1.0 SQL Injection
+  url: https://packetstormsecurity.com/files/143651/muviko10-sql.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d839:9cc60c90
+  item_date: "2017-08-03 22:24:24"
+  title: EDUMOD Pro 1.3 SQL Injection
+  url: https://packetstormsecurity.com/files/143652/edumodpro13-sql.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d83a:9cc60c90
+  item_date: "2017-08-03 22:25:04"
+  title: Premium Servers List Tracker 1.0 SQL Injection
+  url: https://packetstormsecurity.com/files/143653/pslt10-sql.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d83b:9cc60c90
+  item_date: "2017-08-03 22:26:28"
+  title: DNSTracer 1.9 Buffer Overflow
+  url: https://packetstormsecurity.com/files/143654/dnstracer19-overflow.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d83c:9cc60c90
+  item_date: "2017-08-03 22:27:33"
+  title: VirtualBox indows Process DLL Signature Bypass Privilege Escalation
+  url: https://packetstormsecurity.com/files/143655/GS20170804052733.tgz
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d83d:9cc60c90
+  item_date: "2017-08-03 22:29:07"
+  title: VirtualBox Windows Process DLL UNC Path Signature Bypass Privilege Escalation
+  url: https://packetstormsecurity.com/files/143656/GS20170804052907.tgz
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d83e:9cc60c90
+  item_date: "2017-08-03 22:31:12"
+  title: Axis 2100 Network Camera 2.43 Cross Site Scripting
+  url: https://packetstormsecurity.com/files/143657/axis2100-xss.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabbbc7d8:97d83f:9cc60c90
+  item_date: "2017-08-03 22:33:11"
+  title: Kernel Live Patch Security Notice LSN
+  url: https://packetstormsecurity.com/files/143658/LSN-0027-1.txt
+  domain: packetstormsecurity.com
+  image: ""
+- curated_id: ZUIewbiMqT0uhD/3Id1ZhaE/8c93wjzswbMVguw/Acg=_15dabc6aeb8:9ba454:b8b2a437
+  item_date: "2017-08-03 22:44:37"
+  title: Packet Storm New Exploits For July, 2017
+  url: https://packetstormsecurity.com/files/143659/1707-exploits.tgz
+  domain: packetstormsecurity.com
   image: ""
 ...
